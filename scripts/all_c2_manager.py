@@ -60,9 +60,9 @@ BATCH_SIZE     = int(os.environ.get("BATCH_SIZE", "200"))
 XRAY_WORKERS   = int(os.environ.get("XRAY_WORKERS", "16"))
 PV_WORKERS     = int(os.environ.get("PV_WORKERS", "16"))
 JOB_BUDGET_MIN = float(os.environ.get("JOB_BUDGET_MIN", "55"))
-TCP_TIMEOUT    = float(os.environ.get("TCP_TIMEOUT", "4"))
+TCP_TIMEOUT    = float(os.environ.get("TCP_TIMEOUT", "5"))
 TCP_CONCURRENCY = int(os.environ.get("TCP_CONCURRENCY", "800"))
-CURL_MAX_TIME  = int(os.environ.get("CURL_MAX_TIME", "10"))
+CURL_MAX_TIME  = int(os.environ.get("CURL_MAX_TIME", "15"))
 PASSES_REQUIRED = int(os.environ.get("PASSES_REQUIRED", "2"))
 CONNECT_TIMEOUT = float(os.environ.get("CONNECT_TIMEOUT", "10"))
 READ_TIMEOUT    = float(os.environ.get("READ_TIMEOUT", "25"))
@@ -278,15 +278,26 @@ def _qs(uri: str) -> dict:
     return {k: v[-1] for k, v in parse_qs(urlsplit(uri).query).items()}
 
 
+def _ws_settings(path, host):
+    """Build wsSettings; handles the early-data convention '/ws?ed=2048'."""
+    ws = {"path": path or "/"}
+    if host:
+        ws["headers"] = {"Host": host}
+    m = re.search(r"[?&]ed=(\d+)", ws["path"])
+    if m:  # early data: use the base path + standard early-data settings
+        base = re.sub(r"[?&]ed=\d+", "", ws["path"]).rstrip("?&")
+        ws["path"] = base or "/"
+        ws["maxEarlyData"] = int(m.group(1))
+        ws["earlyDataHeaderName"] = "Sec-WebSocket-Protocol"
+    return ws
+
+
 def _net_settings(net: str, params: dict, host: str):
     """Stream settings for the chosen transport network."""
     net = {"raw": "tcp"}.get((net or "").lower(), (net or "").lower())
     stream = {"network": net}
     if net == "ws":
-        ws = {"path": params.get("path") or "/"}
-        if params.get("host"):
-            ws["headers"] = {"Host": params["host"]}
-        stream["wsSettings"] = ws
+        stream["wsSettings"] = _ws_settings(params.get("path"), params.get("host"))
     elif net == "grpc":
         stream["grpcSettings"] = {"serviceName": (params.get("serviceName") or params.get("path") or "").strip("/")}
     elif net in ("h2", "http"):
@@ -693,10 +704,6 @@ def curl_code(port: int, url: str) -> int:
         return 0
 
 
-def test_through_port(port: int):
-    return [name for name, url in TEST_SITES if curl_code(port, url) in OK_CODES]
-
-
 def _wait_port_ready(port: int, timeout: float = 6.0) -> bool:
     deadline = time.time() + timeout
     while time.time() < deadline:
@@ -784,16 +791,26 @@ def run_batch(xray: str, batch, results_out: dict) -> None:
                 return
             done = 0
             with ThreadPoolExecutor(max_workers=XRAY_WORKERS) as pool:
-                futures = {pool.submit(test_through_port, port): (node, port) for node, port in pairs}
+                # one curl per (proxy, site): the 3 sites of a proxy run in
+                # parallel too, so one slow site no longer stalls a proxy
+                futures = {
+                    pool.submit(curl_code, port, url): (node["uri"], name)
+                    for node, port in pairs
+                    for name, url in TEST_SITES
+                }
+                tally = {}
                 for fut in as_completed(futures):
-                    node, _port = futures[fut]
+                    uri, name = futures[fut]
                     try:
-                        results_out[node["uri"]] = fut.result()
+                        ok = fut.result() in OK_CODES
                     except Exception:
-                        results_out[node["uri"]] = []
+                        ok = False
+                    tally.setdefault(uri, []).append((name, ok))
                     done += 1
-                    if done % 25 == 0 or done == len(futures):
-                        log(f"  live-tested {done}/{len(futures)}")
+                    if done % (25 * len(TEST_SITES)) == 0 or done == len(futures):
+                        log(f"  live-tested {done // len(TEST_SITES)}/{len(futures) // len(TEST_SITES)} proxies")
+            for uri, entries in tally.items():
+                results_out[uri] = [name for name, ok in entries if ok]
         finally:
             proc.terminate()
             try:
