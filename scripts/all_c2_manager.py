@@ -10,9 +10,11 @@ Pipeline
      does not implement (ssr, hysteria, tuic, ...) are skipped.
   2. Simple TCP ping: plain TCP connect latency to server:port for every
      proxy; unreachable ones are dropped, the rest are sorted fastest-first.
-  3. Real-time test: download the latest Xray-core release, run it as one
-     process per batch with one SOCKS inbound per proxy, and through each
-     proxy request 3 sites over the REAL tunnel:
+  3. Real-time test: download the latest Xray-core release, PREVALIDATE every
+     candidate's outbound config with `xray run -test` (parallel) so one bad
+     node can never kill a whole batch, then run xray as one process per
+     batch with one SOCKS inbound per proxy, and through each proxy request
+     3 sites over the REAL tunnel:
        youtube     https://www.youtube.com/generate_204
        google      https://www.google.com/generate_204
        cloudflare  https://www.cloudflare.com/cdn-cgi/trace
@@ -56,6 +58,7 @@ ALL_C2_SELF_URL = os.environ.get(
 MAX_XRAY_TEST  = int(os.environ.get("MAX_XRAY_TEST", "2000"))
 BATCH_SIZE     = int(os.environ.get("BATCH_SIZE", "200"))
 XRAY_WORKERS   = int(os.environ.get("XRAY_WORKERS", "16"))
+PV_WORKERS     = int(os.environ.get("PV_WORKERS", "16"))
 JOB_BUDGET_MIN = float(os.environ.get("JOB_BUDGET_MIN", "55"))
 TCP_TIMEOUT    = float(os.environ.get("TCP_TIMEOUT", "4"))
 TCP_CONCURRENCY = int(os.environ.get("TCP_CONCURRENCY", "800"))
@@ -277,6 +280,7 @@ def _qs(uri: str) -> dict:
 
 def _net_settings(net: str, params: dict, host: str):
     """Stream settings for the chosen transport network."""
+    net = {"raw": "tcp"}.get((net or "").lower(), (net or "").lower())
     stream = {"network": net}
     if net == "ws":
         ws = {"path": params.get("path") or "/"}
@@ -321,12 +325,16 @@ def vmess_outbound(node, tag, allow_insecure=True):
         }
         if data.get("alpn"):
             stream["tlsSettings"]["alpn"] = [a for a in str(data["alpn"]).split(",") if a]
+    # sanitize the vmess cipher: unknown values make xray reject the whole config
+    scy = str(data.get("scy") or "auto").strip().lower()
+    if scy not in ("auto", "none", "zero", "aes-128-gcm", "chacha20-poly1305", "chacha20-ietf-poly1305"):
+        scy = "auto"
     return {
         "tag": tag, "protocol": "vmess",
         "settings": {"vnext": [{"address": host, "port": port, "users": [{
             "id": data.get("id") or "",
             "alterId": int(data.get("aid") or 0),
-            "security": data.get("scy") or "auto",
+            "security": scy,
             "level": 8,
         }]}]},
         "streamSettings": stream,
@@ -361,8 +369,11 @@ def vless_outbound(node, tag, allow_insecure=True):
             ts["alpn"] = [a for a in q["alpn"].split(",") if a]
         stream["tlsSettings"] = ts
     user = {"id": unquote(u.username or ""), "encryption": "none", "level": 8}
-    if q.get("flow"):
-        user["flow"] = q["flow"]
+    # vision flow is only valid on plain TCP; attaching it to ws/grpc makes
+    # xray reject the whole config, so keep it only where it is legal
+    flow = (q.get("flow") or "").strip().lower()
+    if flow and net in ("tcp",) and flow.startswith("xtls-rprx-vision"):
+        user["flow"] = flow
     return {
         "tag": tag, "protocol": "vless",
         "settings": {"vnext": [{"address": u.hostname, "port": u.port, "users": [user]}]},
@@ -511,11 +522,21 @@ def ensure_xray(workdir: str) -> str:
     url = f"https://github.com/XTLS/Xray-core/releases/latest/download/{asset}"
     log(f"downloading latest Xray-core ({asset}) ...")
     zip_path = os.path.join(workdir, "xray.zip")
-    with requests.get(url, timeout=(15, 300), stream=True) as r:
-        r.raise_for_status()
-        with open(zip_path, "wb") as f:
-            for chunk in r.iter_content(1 << 20):
-                f.write(chunk)
+    last_exc = None
+    for attempt in (1, 2):  # release CDN hiccups happen; one retry is cheap
+        try:
+            with requests.get(url, timeout=(15, 300), stream=True) as r:
+                r.raise_for_status()
+                with open(zip_path, "wb") as f:
+                    for chunk in r.iter_content(1 << 20):
+                        f.write(chunk)
+            last_exc = None
+            break
+        except requests.exceptions.RequestException as exc:
+            last_exc = exc
+            time.sleep(3)
+    if last_exc is not None:
+        raise last_exc
     with zipfile.ZipFile(zip_path) as z:
         z.extractall(workdir)
     os.remove(zip_path)
@@ -526,6 +547,107 @@ def ensure_xray(workdir: str) -> str:
                 os.chmod(path, 0o755)
                 return path
     raise RuntimeError("xray binary not found after extraction")
+
+
+# --------------------------------------------------------------------------- #
+# Prevalidation: drop nodes whose config xray rejects BEFORE batching
+# --------------------------------------------------------------------------- #
+PV_DUMMY_INBOUND = {
+    "tag": "dv", "listen": "127.0.0.1", "port": 54321,
+    "protocol": "socks", "settings": {"udp": False},
+}
+
+
+def _win_flags():
+    return {"creationflags": getattr(subprocess, "CREATE_NO_WINDOW", 0)} if os.name == "nt" else {}
+
+
+def _xray_test(xray: str, cfg_path: str):
+    """`xray run -test` validates the config without launching the server."""
+    try:
+        r = subprocess.run(
+            [xray, "run", "-test", "-c", cfg_path],
+            capture_output=True, text=True, timeout=25, **_win_flags(),
+        )
+        return r.returncode, (r.stdout or "") + (r.stderr or "")
+    except subprocess.TimeoutExpired:
+        return 124, ""
+    except OSError as exc:
+        return 1, str(exc)
+
+
+def prevalidate_nodes(xray: str, nodes):
+    """Validate every node's outbound with `xray run -test`, in parallel.
+
+    One config xray cannot build kills the WHOLE batch (that is what caused
+    the split-storm), so poisoned nodes are dropped here, before batching.
+    Nodes are returned in their original (latency-sorted) order.
+    """
+    if not nodes:
+        return nodes
+    sanity = {
+        "inbounds": [PV_DUMMY_INBOUND],
+        "outbounds": [{"tag": "v", "protocol": "freedom", "settings": {}}],
+        "routing": {"domainStrategy": "AsIs", "rules": []},
+    }
+    path = os.path.join(WORKDIR, "pv-sanity.json")
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(sanity, fh)
+    rc, _out = _xray_test(xray, path)
+    if rc != 0:
+        log(f"prevalidate: 'xray -test' unavailable (rc={rc}) - skipping prevalidation")
+        return nodes
+
+    tagged, skipped = [], 0
+    for node in nodes:
+        try:
+            ob = make_outbound(node, "v")
+            tagged.append((node, ob))
+        except Exception:
+            skipped += 1
+
+    log(f"prevalidating {len(tagged)} outbound config(s) with 'xray -test' "
+        f"({PV_WORKERS} parallel workers) ...")
+
+    def test_one(idx: int, node, ob) -> bool:
+        cfg = {
+            "inbounds": [PV_DUMMY_INBOUND],
+            "outbounds": [ob],
+            "routing": {"domainStrategy": "AsIs", "rules": []},
+        }
+        fp = os.path.join(WORKDIR, f"pv-{idx}.json")
+        with open(fp, "w", encoding="utf-8") as fh:
+            json.dump(cfg, fh)
+        try:
+            rc, _out = _xray_test(xray, fp)
+        finally:
+            try:
+                os.remove(fp)
+            except OSError:
+                pass
+        return rc == 0
+
+    ok_flags = [False] * len(tagged)
+    done = rejected = 0
+    with ThreadPoolExecutor(max_workers=PV_WORKERS) as pool:
+        futures = {
+            pool.submit(test_one, i, node, ob): i
+            for i, (node, ob) in enumerate(tagged)
+        }
+        for fut in as_completed(futures):
+            i = futures[fut]
+            try:
+                ok_flags[i] = fut.result()
+            except Exception:
+                ok_flags[i] = False
+            done += 1
+            rejected += 0 if ok_flags[i] else 1
+            if done % 250 == 0 or done == len(tagged):
+                log(f"  prevalidated {done}/{len(tagged)} ({rejected} rejected)")
+    good = [node for (node, _ob), ok in zip(tagged, ok_flags) if ok]
+    extra = f", {skipped} unbuildable in python" if skipped else ""
+    log(f"prevalidation done: {len(good)} valid, {rejected} rejected by xray{extra}")
+    return good
 
 # --------------------------------------------------------------------------- #
 # Step 3: real Xray live test
@@ -640,16 +762,14 @@ def run_batch(xray: str, batch, results_out: dict) -> None:
     err_path = cfg_path + ".err"
     with open(cfg_path, "w", encoding="utf-8") as fh:
         json.dump(cfg, fh)
-    kwargs = {}
-    if os.name == "nt":
-        kwargs["creationflags"] = getattr(subprocess, "CREATE_NO_WINDOW", 0)
     with open(err_path, "wb") as err_fh:
         proc = subprocess.Popen(
             [xray, "run", "-c", cfg_path],
-            stdout=subprocess.DEVNULL, stderr=err_fh, **kwargs,
+            stdout=err_fh, stderr=subprocess.STDOUT, **_win_flags(),
         )
         try:
-            if not _wait_port_ready(pairs[0][1], timeout=6.0) or proc.poll() is not None:
+            # poll() first: an instant config-build death must not wait 6s
+            if proc.poll() is not None or not _wait_port_ready(pairs[0][1], timeout=6.0):
                 tail = _last_err_line(err_path)
                 if tail:
                     log(f"  xray: {tail}")
@@ -689,7 +809,7 @@ def run_batch(xray: str, batch, results_out: dict) -> None:
 # --------------------------------------------------------------------------- #
 # Reporting
 # --------------------------------------------------------------------------- #
-def write_summary(sources, extracted, tcp_ok, tested, passed, total, changed):
+def write_summary(sources, extracted, tcp_ok, tested, passed, total, changed, rejected=0):
     lines = [
         "## ALL-C2 live-test report",
         "",
@@ -698,6 +818,7 @@ def write_summary(sources, extracted, tcp_ok, tested, passed, total, changed):
         f"| منابع استخراج (ساب‌ها + خود ALL-C2) | {sources} |",
         f"| پروکسی یکتای استخراج‌شده | {extracted} |",
         f"| TCP پینگ موفق | {tcp_ok} |",
+        f"| کانفیگ ردشده در پیش‌ولیدیشن Xray | {rejected} |",
         f"| تست ریل‌تایم با Xray | {tested} |",
         f"| قبول‌شده ({PASSES_REQUIRED} از ۳ سایت) | {passed} |",
         f"| تعداد نهایی خط‌های {ALL_C2_FILE} | {total} |",
@@ -802,9 +923,17 @@ def main() -> int:
     if len(alive) > len(candidates):
         log(f"capping live test to the {len(candidates)} fastest proxies "
             f"(MAX_XRAY_TEST); {len(alive) - len(candidates)} skipped by budget")
-    log(f"step 3: live-testing {len(candidates)} proxies with real Xray core ...")
+    log(f"step 3: live-testing with real Xray core ...")
     xray = ensure_xray(WORKDIR)
     log(f"xray binary ready: {xray}")
+
+    # Prevalidate every candidate config with `xray -test` so one bad node
+    # can never kill a whole batch (the split-storm seen in the first run).
+    candidates = prevalidate_nodes(xray, candidates)
+    if not candidates:
+        log("no proxy survived prevalidation - keeping existing file untouched.")
+        return 0 if had_old else 1
+    pv_rejected = min(len(alive), MAX_XRAY_TEST) - len(candidates)
 
     passed_uris = set()
     batches = [candidates[i:i + BATCH_SIZE] for i in range(0, len(candidates), BATCH_SIZE)]
@@ -851,10 +980,11 @@ def main() -> int:
         sources=1 + len(uniq_links),
         extracted=len(all_nodes),
         tcp_ok=len(alive),
-        tested=min(len(candidates), len(alive)),
+        tested=len(candidates),
         passed=len(passed_uris),
         total=len(final),
         changed=new_text.strip() != old_norm or not old_norm,
+        rejected=pv_rejected,
     )
     return 0
 
