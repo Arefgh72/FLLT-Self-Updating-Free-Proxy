@@ -1,0 +1,1 @@
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@138.16.249.118:14443?security=tls&sni=lt.krevetkabs111.net&fp=firefox&type=ws&host=lt.krevetkabs111.net&path=%2Fapi%2Fgenerate&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%20138.16.249.118%3A14443

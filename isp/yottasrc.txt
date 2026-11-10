@@ -1,0 +1,2 @@
+vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ty.galactichub.online&fp=chrome&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&type=tcp&headerType=none#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20227ms
+vless://dbf4678a-2e98-a5cc-b053-972c41d44a40@medium.com:2053?security=tls&type=grpc&headerType=none&encryption=none&serviceName=network12tr36&authority=deepsidetr.plmusic.ir&mode=gun&sni=deepsidetr.plmusic.ir&fp=chrome&alpn=h3,h2,http/1.1#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20435
