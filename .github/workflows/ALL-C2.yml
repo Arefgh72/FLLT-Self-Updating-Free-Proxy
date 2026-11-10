@@ -41,8 +41,8 @@ jobs:
           # proxies from previous rounds are re-tested every run.
           ALL_C2_SELF_URL: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}/ALL-C2.txt
           MAX_XRAY_TEST: "2000"
-          BATCH_SIZE: "200"
-          XRAY_WORKERS: "16"
+          BATCH_SIZE: "250"
+          XRAY_WORKERS: "32"
           JOB_BUDGET_MIN: "55"
         run: python scripts/all_c2_manager.py
 
