@@ -40,9 +40,11 @@ jobs:
           # Raw address of ALL-C2.txt itself - always re-extracted so healthy
           # proxies from previous rounds are re-tested every run.
           ALL_C2_SELF_URL: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}/ALL-C2.txt
-          MAX_XRAY_TEST: "40000"
+          MAX_XRAY_TEST: "8000"
           BATCH_SIZE: "250"
           XRAY_WORKERS: "32"
+          CURL_MAX_TIME: "15"
+          TCP_TIMEOUT: "5"
           JOB_BUDGET_MIN: "55"
         run: python scripts/all_c2_manager.py
 
