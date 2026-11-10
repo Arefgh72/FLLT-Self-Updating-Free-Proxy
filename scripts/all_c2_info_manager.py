@@ -60,6 +60,14 @@ JOB_BUDGET_MIN = float(os.environ.get("JOB_BUDGET_MIN", "35"))
 
 COUNTRY_DIR, ISP_DIR, NONCF_DIR = "country", "isp", "non-cloudflare"
 
+README_FILE = os.environ.get("README_FILE", "README.md")
+RAW_BASE = os.environ.get(
+    "RAW_BASE",
+    "https://raw.githubusercontent.com/Arefgh72/FLLT-test/refs/heads/main",
+)
+LINKS_START = "<!-- SUB-LINKS:START -->"
+LINKS_END = "<!-- SUB-LINKS:END -->"
+
 # --------------------------------------------------------------------------- #
 # browserleaks parsing - the site response is the single source of truth
 # --------------------------------------------------------------------------- #
@@ -184,6 +192,76 @@ def classify(entries):
             if ikey != "unknown":  # CF-ness of unknown-ISP exits is unknowable
                 noncf_files.setdefault(f"{ckey}.txt", []).append(uri)
     return country_files, isp_files, noncf_files, cf_count
+
+# --------------------------------------------------------------------------- #
+# Auto-updating "Subscription Links" section of README.md
+# --------------------------------------------------------------------------- #
+def count_lines(path: str) -> int:
+    try:
+        with open(path, "r", encoding="utf-8-sig") as fh:
+            return sum(1 for ln in fh if ln.strip())
+    except OSError:
+        return 0
+
+
+def _files_in(directory: str):
+    if not os.path.isdir(directory):
+        return []
+    return sorted(f for f in os.listdir(directory) if f.lower().endswith(".txt"))
+
+
+def build_links_section() -> str:
+    """Regenerate the whole Subscription-Links block: links appear or vanish
+    together with the .txt files inside the three folders."""
+    def bullets(directory: str, label_fn):
+        files = _files_in(directory)
+        if not files:
+            return ["_(empty right now)_"]
+        return [
+            f"- [{label_fn(f[:-4])}]({RAW_BASE}/{directory}/{f}) · {count_lines(os.path.join(directory, f))} proxies"
+            for f in files
+        ]
+
+    return "\n".join([
+        "## 📡 Subscription Links",
+        "",
+        "Import these raw URLs into any Xray-compatible client (v2rayN, v2rayNG, Hiddify, Streisand, NekoBox…).",
+        "",
+        "| Subscription | Raw link |",
+        "|---|---|",
+        f"| `SUB-DFF.txt` — curated & validated subscription links | {RAW_BASE}/SUB-DFF.txt |",
+        f"| `ALL-C2.txt` — tunnel-tested proxies only (≥ 2/3 sites) | {RAW_BASE}/ALL-C2.txt |",
+        "",
+        f"### 🌍 By country — `country/`",
+        *bullets(COUNTRY_DIR, str.upper),
+        "",
+        f"### 🏢 By ISP / Organization — `isp/`",
+        *bullets(ISP_DIR, str),
+        "",
+        f"### 🚫 Non-Cloudflare, by country — `non-cloudflare/`",
+        *bullets(NONCF_DIR, str.upper),
+    ])
+
+
+def update_readme(section_md: str) -> bool:
+    """Splice the regenerated block between the SUB-LINKS markers."""
+    if not os.path.exists(README_FILE):
+        return False
+    with open(README_FILE, "r", encoding="utf-8") as fh:
+        content = fh.read()
+    block = f"{LINKS_START}\n{section_md}\n{LINKS_END}"
+    if LINKS_START in content and LINKS_END in content:
+        pre, rest = content.split(LINKS_START, 1)
+        _, post = rest.split(LINKS_END, 1)
+        new = pre + block + post
+    else:
+        new = content.rstrip("\n") + "\n\n" + block + "\n"
+    if new == content:
+        return False
+    with open(README_FILE, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(new)
+    return True
+
 
 # --------------------------------------------------------------------------- #
 # Main pipeline
@@ -328,6 +406,13 @@ def main() -> int:
     n_files += write_files(NONCF_DIR, noncf_files)
     log(f"step 3 done: {n_files} file(s) written "
         f"({len(country_files)} country, {len(isp_files)} isp, {len(noncf_files)} non-cloudflare)")
+
+    # step 4: refresh the auto-updating Subscription-Links section in README
+    try:
+        changed = update_readme(build_links_section())
+        log(f"step 4: README subscription-links section {'updated' if changed else 'unchanged'}")
+    except Exception as exc:
+        log(f"step 4: README update skipped ({type(exc).__name__}: {exc})")
 
     write_summary(
         read=len(nodes), dead=len(dead), parsed=len(parsed), unknown=unknown,
