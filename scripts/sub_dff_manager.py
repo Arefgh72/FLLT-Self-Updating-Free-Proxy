@@ -41,7 +41,7 @@ import requests
 SUB_FILE        = os.environ.get("SUB_FILE", "SUB-DFF.txt")
 MIN_PROXIES     = int(os.environ.get("MIN_PROXIES", "2"))
 MIN_DISCOVERED  = int(os.environ.get("MIN_DISCOVERED", "10"))
-MAX_DISCOVERED  = int(os.environ.get("MAX_DISCOVERED", "40"))
+MAX_DISCOVERED  = int(os.environ.get("MAX_DISCOVERED", "50"))
 WORKERS         = int(os.environ.get("WORKERS", "24"))
 CONNECT_TIMEOUT = float(os.environ.get("CONNECT_TIMEOUT", "10"))
 READ_TIMEOUT    = float(os.environ.get("READ_TIMEOUT", "25"))
