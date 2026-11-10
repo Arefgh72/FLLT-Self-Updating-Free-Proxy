@@ -41,7 +41,7 @@ jobs:
           # proxies from previous rounds are re-tested every run.
           ALL_C2_SELF_URL: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}/ALL-C2.txt
           MAX_XRAY_TEST: "80000"
-          BATCH_SIZE: "250"
+          BATCH_SIZE: "300"
           XRAY_WORKERS: "100"
           CURL_MAX_TIME: "15"
           TCP_TIMEOUT: "5"
