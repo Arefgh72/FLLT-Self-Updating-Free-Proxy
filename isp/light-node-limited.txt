@@ -1,0 +1,1 @@
+trojan://5t6i121em5lkmsmk@130.94.19.95:57277?security=none&type=tcp&sni=us001.zestapp778.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%7C%20130.94.19.95%3A57277
