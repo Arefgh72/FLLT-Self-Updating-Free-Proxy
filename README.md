@@ -1,4 +1,4 @@
-# FLLT-test — Self-Updating Free Proxy Pipeline
+# FLLT — Self-Updating Free Proxy Pipeline
 
 This repository runs **three fully automated GitHub Actions** that keep a fresh and **verified** pool of Xray proxy subscriptions — with zero secrets and zero manual work. Everything runs on GitHub's own infrastructure using the built-in `GITHUB_TOKEN`.
 
