@@ -10,9 +10,6 @@ Built with the well-known **GLM 5.3 Flash** model (ZCode).
 | 2 | **ALL-C2** | every 12 h (03:23 / 15:23) + manual | `ALL-C2.txt` — proxies that passed a real Xray tunnel test |
 | 3 | **ALL-C2-INFO** | every 8 h (01:37 / 09:37 / 17:37) + manual | `country/` · `isp/` · `non-cloudflare/` — classified by live browserleaks data |
 
-## 📡 Subscription Links
-
-Import these raw URLs into any Xray-compatible client (v2rayN, v2rayNG, Hiddify, Streisand, NekoBox…).
 
 <!-- SUB-LINKS:START -->
 ## 📡 Subscription Links
