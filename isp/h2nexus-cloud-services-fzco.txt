@@ -1,2 +1,0 @@
-vless://cbd6c099-5d4f-467e-86d2-92cb292892fb@87.120.126.43:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=gr.connect-qik.uk&fp=firefox#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20down
-vless://bc6c3e9a-592c-46b9-ad48-87c052c64486@87.120.126.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr.connect-qik.uk&type=tcp#DE

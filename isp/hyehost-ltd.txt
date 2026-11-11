@@ -1,0 +1,1 @@
+vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:2089?security=reality&type=grpc&sni=s3.storage.selcloud.ru&fp=firefox&pbk=y2gMlmdCUGqkF8lh5AaQzmOs7BhaWkOgjqfzea5oxD0&sid=668d298a&serviceName=cas-gb&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20212.41.9.190%3A2089
