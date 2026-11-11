@@ -1,2 +1,0 @@
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?security=tls&sni=3h-kazakhstan1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=0#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Almaty%20%7C%2038.107.234.57%3A8443
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20-%20Almaty%20%7C%203h-kazakhstan1.09vpn.com%3A8443
