@@ -1,1 +1,0 @@
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:10000?flow=xtls-rprx-vision&security=reality&sni=sellercentral.amazon.com&fp=safari&pbk=zbxwe24LRKKKjXccD1t_yJ3WDFXXY_y9j7SqbkPMIRw&sid=99aa2eb4f2c77af5#US

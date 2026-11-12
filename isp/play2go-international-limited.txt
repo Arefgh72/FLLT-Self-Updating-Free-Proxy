@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206RkpvX1YtS012cmlEZWtOMENZa2ROSDBD@177.202.64.67:1080#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20SS%20%7C%20214
+vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@144.31.157.41:443?security=reality&type=tcp&sni=tradingview.com&flow=xtls-rprx-vision&fp=firefox&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20144.31.157.41%3A443%202

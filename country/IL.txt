@@ -1,1 +1,2 @@
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@192.71.27.237:443?security=tls&type=ws&sni=fs.qicai99.com&path=%2F&host=fs.qicai99.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20-%20Tel%20Aviv%20%7C%20192.71.27.237%3A443%203
+ss://YWVzLTI1Ni1nY206amZXb1NWQ1ZZWFJtTkJmQw@64.177.66.60:8388#🇦🇪

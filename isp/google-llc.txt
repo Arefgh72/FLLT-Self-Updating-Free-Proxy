@@ -1,1 +1,2 @@
 vless://408c814e-f70a-4d16-b3b3-8182bb70211d@34.39.80.57:50818?security=tls&fp=chrome&sni=yingguo.rymaker.cn&type=ws&headerType=none&path=%2FGunService&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20City%20of%20London%20%7C%2034.39.80.57%3A50818
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@35.236.180.222:14514#TW

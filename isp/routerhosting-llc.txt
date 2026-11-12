@@ -1,1 +1,0 @@
-vless://901c1ed2-be44-4c97-843e-7bcdcce28e04@172.86.112.136:2053?security=tls&sni=usa.amosh.sbs&alpn=h2%2Ch3%2Chttp%2F1.1&fp=firefox&type=xhttp&host=usa.amosh.sbs&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Dallas%20%7C%20172.86.112.136%3A2053

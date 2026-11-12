@@ -1,2 +1,0 @@
-vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:50121?flow=xtls-rprx-vision&security=reality&sni=api.adidas.com&fp=ios&pbk=wwVM0-8EUXMZthXS6SAGpu3xSPbf2kjWB_A3i-TCOS0&sid=888cb24cb698#US
-vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&encryption=none&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=94acb54627612d43#@hex_proxy
