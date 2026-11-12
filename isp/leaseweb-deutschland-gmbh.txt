@@ -1,1 +1,0 @@
-vless://5733e03f-a89c-4135-9927-cd458e2178f5@109.70.74.188:443?security=reality&type=tcp&sni=test-www.amazon.com&fp=chrome&pbk=uTx6PuUPsi4Z0qb7ED5WoPdLxe22v8T0fIK1hip0KD0&sid=3990dbf4e99b&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20109.70.74.188%3A443%204

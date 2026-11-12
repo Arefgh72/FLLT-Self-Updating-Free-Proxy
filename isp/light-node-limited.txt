@@ -1,2 +1,0 @@
-trojan://5t6i121em5lkmsmk@130.94.19.95:57277?security=none&type=tcp&sni=us001.zestapp778.com&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Washington%20%7C%20130.94.19.95%3A57277
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=in001.zestapp778.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20-%20Jakarta%20%7C%20130.94.95.198%3A57353

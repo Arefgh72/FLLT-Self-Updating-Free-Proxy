@@ -1,4 +1,2 @@
 vless://6430ede6-3f43-4beb-95c0-0fb29e9ea76d@179.253.81.74:17417?security=reality&sni=yandex-cdn-mirror.ru&type=xhttp&path=%2F&fp=edge&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&sid=728f3f459ddf#🇷🇺
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror-50.topp-con.xyz&fp=chrome&security=reality&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798#RU
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@78.159.245.40:8445?security=reality&encryption=none&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20193ms
-vless://97fd7807-7e2b-49da-8a0e-e40197088f97@165.231.157.124:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6af3f40b.adhil.uk&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20165.231.157.124%3A8443

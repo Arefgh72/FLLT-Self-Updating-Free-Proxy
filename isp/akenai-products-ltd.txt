@@ -1,2 +1,1 @@
-vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:12443?type=grpc&security=reality&fp=chrome&pbk=H2OZHvueEdgPOrpYR7KoD6o10l7mak7dvxn0Sdq1MHE&sid=10700887&sni=s3.storage.selcloud.ru&serviceName=cas-it#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20212.41.9.190%3A12443
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2092?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=DAmuGIDPePcOcjrme7P9mSurDbw3TJMpb7xjFMyixnc&sid=53823c70&serviceName=cas-it#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20469

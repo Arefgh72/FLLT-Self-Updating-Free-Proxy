@@ -1,1 +1,0 @@
-vless://fdd162f9-1393-4229-a31c-ec5263b918ad@35.212.243.76:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x1ql3ShHUiyfMiA9_49FPY7ZV5Oqw2LcZPI9CUIlQQg&security=reality&sni=dl.google.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20The%20Dalles%20%7C%2035.212.243.76%3A443
