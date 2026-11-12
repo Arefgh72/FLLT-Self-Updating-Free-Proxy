@@ -1,0 +1,1 @@
+vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?serviceName=grpc&alpn=h2&allowInsecure=0&sni=bg2.oncloudvpn.com&insecure=0&fp=edge&type=grpc&mode=gun&authority=bg2.oncloudvpn.com&security=tls&encryption=none#🆔madshopx%20🔒%20VL-GRPC-N/A%20❔%20XX%20156ms

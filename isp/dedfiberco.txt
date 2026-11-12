@@ -1,2 +1,1 @@
 vless://e3a5c9e0-cd09-40f0-af00-9723f7b28d73@107.181.112.84:8443?security=reality&sni=eventadm.semiconductor.samsung.com&fp=firefox&pbk=kpyCiM69dssft6NK5mGXKXHCcRRhY9QD5o3nPEFBO2Q&sid=c6000ef1511a&encryption=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20107.181.112.84%3A8443
-vless://1d032eb9-3673-44bb-80a9-235cbbb881e6@107.181.112.84:12588?security=reality&encryption=none&pbk=FmZUGqJUYMLhNvLhIMFsstQIsNpv2J7gYt8TNBPdxgQ&headerType=none&fp=chrome&spx=%2F6844e0e30b71008&type=tcp&sni=samsung.com&sid=a1b6b0a4#🔥Join+Telegram:@Farah_VPN🟣

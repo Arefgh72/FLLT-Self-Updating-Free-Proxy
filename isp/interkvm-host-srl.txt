@@ -1,1 +1,2 @@
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@88.218.42.115:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=edge-3b715ba41dc5.eu-cdn539.com&pbk=cTHWxPgxWCY2aGTyJTLMOc9JVHdulknmGUqiolKPLgM&sid=dd908a76dbe472d4&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://585a421d-d782-4420-912e-dd58ff5966d7@9.247.174.134:8443?&security=reality&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&sid=974f7f8f&fp=chrome&sni=play.googleapis.com&type=tcp&headerType=none&host=play.googleapis.com&path=%2F#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20%7C%20ESP
