@@ -1,1 +1,2 @@
 vless://af482a1c-8b12-4f61-af77-a9e5fe5336bc@109.70.74.20:50540?security=reality&encryption=none&pbk=e1k9SFW-FuDzb8X72L9dQQtuyLnQmoWdN8NXyVqVp2k&headerType=none&fp=chrome&spx=/8c7d8642edb8ac7&type=tcp&sni=eventadm.semiconductor.samsung.com&sid=cbe1db1dd92820#🇩🇪
+vless://d8ac7cf9-0d76-4c2f-a259-d0f0bea7a3f8@109.70.74.18:8443?security=reality&encryption=none&pbk=8XaCRUFO7OkeBGgHi5rZAlGKTbmAiqzx-QfehkIwkyg&headerType=none&fp=chrome&spx=%2Fe8930c2f177f6a3&type=tcp&sni=blog.api.www.cloudflare.com&sid=fe24c652d01e#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%2090ms

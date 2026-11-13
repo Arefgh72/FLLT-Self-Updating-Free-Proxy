@@ -1,1 +1,2 @@
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=chrome&security=tls#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%20424
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?security=reality&type=tcp&sni=ads.x5.ru&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Coventry%20%7C%20138.124.125.193%3A10444

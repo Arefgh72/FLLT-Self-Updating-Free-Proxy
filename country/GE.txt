@@ -1,0 +1,1 @@
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@194.135.119.82:2053?security=tls&type=ws&sni=fs.qicai99.com&path=%2F&host=fs.qicai99.com&fp=chrome#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20-%20Tbilisi%20%7C%20194.135.119.82%3A2053%203

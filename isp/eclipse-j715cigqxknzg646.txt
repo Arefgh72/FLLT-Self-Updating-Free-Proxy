@@ -1,0 +1,1 @@
+trojan://QzVKeGlc2qYRxyzWb3xZFjHbqY2JmOfZ@199.68.156.221:2087?allowInsecure=1&alpn=http%2F1.1&fp=firefox&host=nexoastra.xnetaro.ir&path=%2Fwss&security=tls&sni=nexoastra.xnetaro.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20199.68.156.221%3A2087

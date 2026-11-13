@@ -1,1 +1,0 @@
-vless://fa081e9f-7574-0002-8928-31aa5ac923c7@203.23.179.123:443?security=reality&type=tcp&sni=de1-b.sbcweb.net&fp=firefox&flow=xtls-rprx-vision&sid=868419504747f6de&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&encryption=none#DE
