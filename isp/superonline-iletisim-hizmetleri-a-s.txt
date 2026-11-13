@@ -1,0 +1,2 @@
+vless://9de40432-8f2d-48ed-a140-2ca7d35ccdba@7fb7d2t.de31.h1clayd.shop:443?encryption=none&headerType=none&pbk=yXY9HkytT7lrF6aOk73u_yU7GIx-k-cVfEMF-tYf1Ew&security=reality&sid=0d4f686158f1a468&sni=7fb7d2t.de31.h1clayd.shop&spx=%2F&type=tcp&fp=firefox#TR
+vless://9de40432-8f2d-48ed-a140-2ca7d35ccdba@e09e97g.de31.h1clayd.shop:443?type=grpc&security=reality&fp=firefox&pbk=2SV7yqMZolKFfASQHjOzWSjs_7kltIStOtHoPC8E7Vs&sid=da9b9cf202c04c73&sni=e09e97g.de31.h1clayd.shop&mode=gun&serviceName=0b2001a7cac9&spx=/#TR

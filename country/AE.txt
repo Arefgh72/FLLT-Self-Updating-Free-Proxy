@@ -1,7 +1,4 @@
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-00.catcat321.com:20123?allowInsecure=1&sni=hk.catxstar.com#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20TROJAN%20%7C%20365
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20086?security=tls&sni=hk.catxstar.com&type=tcp&fp=chrome&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20157.254.38.210%3A20086
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20123?sni=hk.catxstar.com&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20157.254.38.210%3A20123
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@217.217.222.230:20123?sni=hk.catxstar.com&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20217.217.222.230%3A20123
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@16.106.7.232:20123?security=tls&sni=hk.catxstar.com&path=/#🇭🇰
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.45:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dune-falcon.cdn.cachefleet.com&fp=chrome&pbk=cH5ij6-s09W0Dx3Bnxhh4fHeVnjM_TrS1rZWfdgBPi8&sid=0268c715cf2f61e7#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20200.102.183.45%3A443
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@16.106.7.232:20086?security=tls&sni=hk.catxstar.com&path=/#HK

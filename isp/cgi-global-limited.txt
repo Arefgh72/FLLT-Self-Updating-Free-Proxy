@@ -1,0 +1,2 @@
+vless://b11716c2-6d11-4752-b2bf-ac240b0136e4@duke.abrdns.com:8443?security=reality&encryption=none&pbk=5wTeknadiZ3XFJA2bAe1ee5pkx-KL_3Wh8dZRzkonUQ&headerType=none&fp=chrome&type=tcp&sni=snapp.ir&sid=278eba2e20817876#🆔v2ray1_ng%20🔒%20VL-TCP-%20❔%20XX%20287ms
+vless://b11716c2-6d11-4752-b2bf-ac240b0136e4@31.57.250.236:8443?security=reality&sni=snapp.ir&type=tcp&fp=chrome&pbk=5wTeknadiZ3XFJA2bAe1ee5pkx-KL_3Wh8dZRzkonUQ&sid=278eba2e20817876#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AAAE-15

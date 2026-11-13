@@ -1,1 +1,0 @@
-vless://65e7fa8d-180a-4819-8f77-28e93f58f0ce@104.24.68.75:2053?security=tls&type=ws&path=%2F98b08ea93e&host=tunc.rupfem.ir&alpn=http%2F1.1&sni=tunc.rupfem.ir&fp=chrome&encryption=none#%40SylphNet%20%7C%201405-08-21%20%2348
