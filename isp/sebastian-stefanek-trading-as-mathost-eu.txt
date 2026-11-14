@@ -1,1 +1,0 @@
-vless://68308421-6f65-47c5-b58f-aa3c18686fd8@145.79.141.215:3299?encryption=none&flow=xtls-rprx-vision&pbk=pEpkw28cuSWPSJdoOO51OhwYoTpX7pSE_DeURMAUNS8&security=reality&sid=749278bdbdd70ed6&sni=pl1-gkvut.vpvr4ib84nuv6hdkt.ru&type=tcp&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%9A%80%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%5B%F0%9F%8F%B4BL%2FSNI%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A5

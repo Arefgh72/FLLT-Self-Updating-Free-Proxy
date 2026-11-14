@@ -1,0 +1,1 @@
+vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@153.80.179.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=B97Gg7DpnBdFsHiCdOIQ6CGx17hcZYj2gEGNxnJ730c&security=reality&sni=france.freegate.win&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%20153.80.179.111%3A443%202
