@@ -1,0 +1,2 @@
+vless://e50e6851-a29a-45a1-811d-1e9230c1512a@2.27.23.223:8443?security=reality&encryption=none&pbk=lQn0k9GCrG7Hh34b8ezAyVjc9KBCxQm3oP0xdxKGy0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se1.slowframe.org&sid=35cb85e41b041622#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20375
+vless://e50e6851-a29a-45a1-811d-1e9230c1512a@87.121.89.160:8443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=lQn0k9GCrG7Hh34b8ezAyVjc9KBCxQm3oP0xdxKGy0U&fp=chrome&type=tcp&sni=fi1.slowframe.org&sid=35cb85e41b041622#@VPsave

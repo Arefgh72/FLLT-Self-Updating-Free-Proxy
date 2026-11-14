@@ -1,0 +1,1 @@
+vless://2ed1ddca-a5cf-41ba-86f1-677501db9d11@45.134.38.7:4041?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ccKm06pTKMz_Mrbn3jL4wXQI6vmw2iYIQ8c--Sn13lI&security=reality&sid=566f0df921560c&sni=genshin.hoyoverse.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%2045.134.38.7%3A4041
