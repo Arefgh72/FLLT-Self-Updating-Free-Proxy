@@ -1,1 +1,2 @@
 vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?encryption=none&fp=&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&security=reality&sid=7ef3a8ab2886&sni=amazon.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20-%20Seoul%20%7C%2043.108.48.169%3A40701
+vless://8b17beac-b143-447d-aa68-14cbb121a602@8.217.1.203:8443?encryption=none&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&type=tcp&pbk=74P0QFvaK6B13rHsxR_t0lqRlg4YLuORD4VaHr5Jd38&sid=0bf55f64#undefined

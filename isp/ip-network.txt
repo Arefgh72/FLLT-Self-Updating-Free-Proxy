@@ -1,1 +1,0 @@
-vless://ead4a562-edf2-40cf-ad33-13ae98546226@77.90.0.22:2087?security=reality&sni=dl.google.com&fp=firefox&pbk=lN4gxtu1uZUH0d-RFC35FHoAwKZ6bNGV7I68JCAbGF4&sid=c0e1f54d&type=grpc&serviceName=grpc&mode=gun#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20304

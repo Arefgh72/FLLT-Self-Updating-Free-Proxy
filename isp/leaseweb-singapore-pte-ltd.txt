@@ -1,2 +1,1 @@
 vless://b19c62cc-f2c2-4895-aee1-978a0f58f8c8@www.zoom.us:443?type=ws&security=tls&fp=chrome&sni=matrix.phonicsindia.mobi&host=matrix.phonicsindia.mobi#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20297
-vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgM0MxNEY2IiwiYWRkIjoibmV3cy56b29tLnVzIiwicG9ydCI6Ijg0NDMiLCJpZCI6ImJkNjdmY2QyLWVjMzQtNDBhNi1hYWM2LTY3NzMxZjJkNzAxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoibWF0cml4LnBob25pY3NpbmRpYS5tb2JpIiwicGF0aCI6Ii8iLCJob3N0IjoibWF0cml4LnBob25pY3NpbmRpYS5tb2JpIn0=
