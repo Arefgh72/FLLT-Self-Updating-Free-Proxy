@@ -3,8 +3,8 @@ vmess://eyJhZGQiOiIxNTguNTEuMTIxLjI0NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIs
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6MCwiaG9zdCI6IjIzLjE2Mi4yMDAuMTk4IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAwOTQwRjYiLCJzbmkiOiIyMy4xNjIuMjAwLjE5OCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@158.51.121.221:19999#🇨🇦
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%20286
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20312
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20314
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20312
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20372
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20436
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%20453
@@ -20,8 +20,6 @@ vmess://eyJhZGQiOiIxNjIuMTkuMTkyLjg5IiwiYWlkIjoiMCIsImhvc3QiOiI3ZDU2NDgyZGM1MjUx
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%20408
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%2013
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%20144
-vless://8415d003-15be-4f6d-b452-b5b5bdc187e6@78.138.17.65:443?security=reality&encryption=none&pbk=3ifh7TZGRkfJMxFeUug-YXR4EB5BFLJQ8DEfayvmWBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ca-3.earlyoak.sbs&sid=168b19fa874b9934#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20373
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%2029
-vmess://eyJhZGQiOiAiZnJlZS5jYS5mYW1pbHlzaGFyaW5nLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImVkZ2UuYWN0aXZpdHkud2luZG93cy5jb20iLCAiaWQiOiAiMDRjYWNmMGEtNDZkNS04MWIzLTg3NGQtNDYwZDdhMzZjMDM2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxMDUxIiwgInBzIjogIlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNBLVx1ZDgzZFx1ZGU4MEBWUE5pbmUxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%40v2raybaaz

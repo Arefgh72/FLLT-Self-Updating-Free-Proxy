@@ -1,1 +1,0 @@
-vless://1011b03e-b5e7-4f7f-af17-1d8f9e727700@45.80.230.231:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.1177.se&pbk=wD713tU37fU02OUusCfKXQ5nDsfjjgWIB6ArIO8sjCc&sid=a928e81b&fp=chrome&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20-%20Stockholm%20%7C%2045.80.230.231%3A443

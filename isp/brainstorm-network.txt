@@ -1,2 +1,0 @@
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#v2go%20%7C%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%20326
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%20103.75.118.228%3A12683%202
