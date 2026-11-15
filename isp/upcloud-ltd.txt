@@ -1,0 +1,1 @@
+vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?flow=xtls-rprx-vision&fp=firefox&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&spx=%2Fa4ab4cc7452faca&type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20109.71.245.99%3A443

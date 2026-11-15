@@ -1,2 +1,4 @@
 vless://408c814e-f70a-4d16-b3b3-8182bb70211d@34.39.80.57:50818?security=tls&fp=chrome&sni=yingguo.rymaker.cn&type=ws&headerType=none&path=%2FGunService&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20City%20of%20London%20%7C%2034.39.80.57%3A50818
 trojan://123456@34.94.152.229:443?fp=chrome&insecure=1&security=tls&sni=us.ctt25.uk&type=tcp#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20487
+trojan://123456@us.ctt25.uk:443?fp=chrome&insecure=1&security=tls&sni=us.ctt25.uk&type=tcp#megav.app
+vless://304c51f8-5e21-4eea-bdc0-4ebeb6cb811d@34.55.45.96:443?encryption=none&type=xhttp&security=reality&pbk=1Ft_BCjUX8mvTZvdZXPgcUCipjNXVjzUnWfi9WjTLl8&sid=ce5ca552f4edc872&sni=www.clearblade.com&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Council%20Bluffs%20%7C%2034.55.45.96%3A443

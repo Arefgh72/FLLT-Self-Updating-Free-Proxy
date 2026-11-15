@@ -1,1 +1,0 @@
-vless://fb9b439d-e5d2-4337-a781-b18a67b8127e@147.45.214.143:443?flow=xtls-rprx-vision-udp443&security=reality&sni=st.ozone.ru&fp=firefox&pbk=Adzk6YXb3MU4kN8PgDQjY_4GfQgMUhRy_2LOGmiFHCg&sid=c48282c0acf92721&encryption=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20147.45.214.143%3A443
