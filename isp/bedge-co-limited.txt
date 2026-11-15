@@ -1,1 +1,0 @@
-trojan://5t6i121em5lkmsmk@149.104.87.125:15083?security=tls&sni=mx001.zestapp778.com&fp=chrome#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20526

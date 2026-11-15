@@ -1,0 +1,1 @@
+vless://75a8cc15-fa52-4067-949f-42a89859b54f@176.123.160.196:443?flow=xtls-rprx-vision&security=reality&sni=brnl2.catneuro.su&fp=firefox&pbk=jH6fBbonaKYT-bLkpRiZCW_5BwVMSUeC_1d1bBTj_Rw&sid=a1fd12bb855171d7&encryption=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20176.123.160.196%3A443
