@@ -1,0 +1,2 @@
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.79.19.7:443?encryption=none&flow=xtls-rprx-vision&pbk=YLcEO7lE6TeHKOMwRMkzLwaka7JOCbV8WCQ15eQVWEE&security=reality&sid=1d482377da&sni=fazuno.net&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Unknown%20%7C%20185.79.19.7%3A443%202
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@185.79.19.8:443?encryption=none&flow=xtls-rprx-vision&pbk=YLcEO7lE6TeHKOMwRMkzLwaka7JOCbV8WCQ15eQVWEE&security=reality&sid=1d482377da&sni=fazuno.net&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Unknown%20%7C%20185.79.19.8%3A443%202

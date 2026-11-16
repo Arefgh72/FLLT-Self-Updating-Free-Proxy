@@ -1,1 +1,1 @@
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇵🇱
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@167.88.51.43:443?security=reality&flow=xtls-rprx-vision&fp=edge&pbk=SYKJ-zsxnjo1DG-ChEhfq2Smfo-f7CvKKssj9rzuCRw&sid=2d850fa7&sni=ng1.gofizz.in&encryption=none&type=tcp#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20-%20Lagos%20%7C%20167.88.51.43%3A443%203
