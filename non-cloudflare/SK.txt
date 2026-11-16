@@ -1,1 +1,0 @@
-vless://6f2857ee-4d43-417f-8a60-6f29becf061f@45.151.70.116:443?encryption=none&pbk=O-B_Lb2sUV9VaUIv0_d6gVMA20oSKEd1wwyZ5vJYvh8&security=reality&sid=836c3060&sni=www.amd.com&type=tcp&fp=edge#%F0%9F%87%B8%F0%9F%87%B0%20%F0%9F%9A%80%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D1%8F%20%5B%F0%9F%8F%B4BL%2FSNI%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A5
