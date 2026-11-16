@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs.
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/clash.yaml
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub1.txt
-https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/all.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/ipv6_only.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/Tested.txt
 https://raw.githubusercontent.com/penhandev/AutoAiVPN/main/AtuoAiVPN.txt
@@ -79,8 +78,6 @@ https://raw.githubusercontent.com/kasesm/Free-Config/main/all_raw.txt
 https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/Lite-DukeMehdi-Configs.txt
 https://raw.githubusercontent.com/kasesm/Free-Config/main/all_sub.txt
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
-https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/SS-DukeMehdi-Configs.txt
-https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/servers.json
 https://raw.githubusercontent.com/kasesm/Free-Config/main/ss_sub.txt
 https://raw.githubusercontent.com/mehrdadmb2/V2ray_Sub/main/Irancell.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt
@@ -99,10 +96,8 @@ https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/sub.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/stats.json
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt
-https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/TROJAN-DukeMehdi-Configs.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Base64/Sub1_base64.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Base64/Sub2_base64.txt
-https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/vless.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top_ipv6.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified_tls.txt
@@ -155,8 +150,6 @@ https://raw.githubusercontent.com/WLget/V2Ray_configs_64/master/ConfigSub_list.t
 https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_ss.txt
 https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_trojan.txt
 https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_vless.txt
-https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/ss.txt
-https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/vmess.txt
 https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub3.txt
 https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_vmess.txt
 https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-country/AE.txt
@@ -180,3 +173,19 @@ https://raw.githubusercontent.com/wlunlocker/vpn-configs/main/whitelist_cidr2_ru
 https://raw.githubusercontent.com/wlunlocker/vpn-configs/main/whitelist_cidr3_eu.txt
 https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/whitelist.txt
 https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/blacklist.txt
+https://raw.githubusercontent.com/M450ud/PrList/main/config.json
+https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_CA.txt
+https://raw.githubusercontent.com/M450ud/PrList/main/desktop.json
+https://raw.githubusercontent.com/mehrdadmb2/V2ray_Sub/main/External-raw.txt
+https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/country_US.txt
+https://raw.githubusercontent.com/M450ud/PrList/main/dsl.txt
+https://raw.githubusercontent.com/mehrdadmb2/V2ray_Sub/main/External.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt
+https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/lite_mix.txt
+https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/lite_mix_sub.txt
+https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix.txt
+https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix_sub.txt
+https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_tcp.txt
+https://raw.githubusercontent.com/M450ud/PrList/main/prx.txt
+https://raw.githubusercontent.com/mehrdadmb2/V2ray_Sub/main/Mci.txt
+https://sub.proxygo.org/v2ray.php?key=0246b1865b59ef7f86a13c1ca3ff821b
