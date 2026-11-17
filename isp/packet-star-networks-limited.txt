@@ -1,2 +1,1 @@
 vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@185.90.62.112:10000?security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&sid=cd0a1986719e44c8&encryption=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Canary%20Wharf%20%7C%20185.90.62.112%3A10000%202
-vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@87.107.194.110:9632?security=reality&sni=aparat.com&fp=firefox&pbk=BECatGFyR4lUoLv4-w-qOzPPDkAQt_P8yGB4cP3nE0k&sid=e9b64ca7d55f2672&encryption=none&type=tcp#🇦🇪

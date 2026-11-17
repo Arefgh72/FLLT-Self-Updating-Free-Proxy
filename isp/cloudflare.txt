@@ -1,4 +1,1 @@
-trojan://auto@104.17.128.1:2096?path=%2Fazadnet-5o5.pages.dev%2F%3Fed%3D2560&security=tls&insecure=0&host=azadnet-5o5.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-5o5.pages.dev#CA
 vless://57715fc4-f787-4e90-9eb2-53fa515fbf37@207.65.189.9:443?host=spsudu.pages.dev&path=%2F&security=tls&sni=spsudu.pages.dev&type=ws#JP
-trojan://krOXKzNRRIROWi@info.github.com:8443?sni=kaMran06-v3QDLI.KAMRaN-06.WOrKErs.dEV&allowInsecure=1&type=ws&path=%2F&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_29
-trojan://RXR0MNWOjvFH@equityapartments.com:2083?sni=raYAnCOnfiG01-dPbXh49m-t1.raYAn-cONfig-01.workERs.dEV&type=ws&path=%2F%3Fed%3D2560&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_211

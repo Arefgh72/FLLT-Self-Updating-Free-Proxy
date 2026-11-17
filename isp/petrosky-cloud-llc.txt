@@ -1,1 +1,1 @@
-vless://SoonTeam%20@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&fp=chrome&spx=%2F96792ab71d05b03&type=tcp&sni=stg.crazimals.com&sid=57#🆔ar14n24b%20🔒%20VL-TCP-%20🇫🇷%20FR%20146ms
+vless://6962c372-27da-56d6-9d1f-8041abb7538e@83.136.210.129:443?encryption=none&fp=firefox&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&security=reality&sid=0ccc9342fa5e7f&sni=wxug.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%7C%2083.136.210.129%3A443%202

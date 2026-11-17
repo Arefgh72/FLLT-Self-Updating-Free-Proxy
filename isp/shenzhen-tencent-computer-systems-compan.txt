@@ -1,1 +1,0 @@
-vless://a2d4ddd8-4d3f-49f5-b78b-bdb3eebab9a6@43.130.234.128:443?type=tcp&security=reality&sni=www.microsoft.com&fp=firefox&pbk=DLYP4CSy4Ey15aYSzcYdwfW4XIuiw3_DuKunNLEDgS4&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%2043.130.234.128%3A443
