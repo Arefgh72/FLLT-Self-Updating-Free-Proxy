@@ -1,0 +1,1 @@
+vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?security=reality&type=tcp&packetEncoding=xudp&sni=ty.galactichub.online&fp=chrome&flow=xtls-rprx-vision&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&encryption=none#🇹🇷

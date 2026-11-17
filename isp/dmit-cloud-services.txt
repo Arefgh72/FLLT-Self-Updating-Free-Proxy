@@ -1,0 +1,2 @@
+vmess://eyJhZGQiOiJjbGFzaC5kZG00LmNuIiwiYWlkIjowLCJob3N0IjoiY2xhc2guZGRtNC5jbiIsImlkIjoiZDAwNmVmNGEtZDIzNS00NjkxLWJmMDUtYWJiZTBkMTQwNTVjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IEE4OUI4RSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://d006ef4a-d235-4691-bf05-abbe0d14055c@64.186.233.233:443?encryption=none&fp=firefox&host=clash.ddm4.cn&path=%2Fvless&security=tls&sni=clash.ddm4.cn&type=ws#US

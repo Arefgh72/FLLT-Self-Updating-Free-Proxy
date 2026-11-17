@@ -1,1 +1,2 @@
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@86.107.179.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ekBZQk5UXxYvELwhchzklwJ5H9-W3rkZ1eAVVF1xlI&security=reality&sid=b39ae58a4dcff57d&sni=edge-5c4a0a8e13a6.eu-cdn391.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%B4RO-7
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.108.245.73:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=pawuk.belka.tv#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%20176.108.245.73%3A443

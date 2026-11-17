@@ -1,0 +1,1 @@
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@166.88.142.30:443?security=reality&type=tcp&sni=us4.gofizz.in&flow=xtls-rprx-vision&fp=firefox&pbk=gCsalN0QrbmG5RWlegbat3OD44OoUVtrXV2dKW8vcTk&sid=90ef733c23&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Houston%20%7C%20166.88.142.30%3A443

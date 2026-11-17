@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYzQzdVYwX196dEZoc2hudVk0UnZoVk9DMkZneENqQQ@185.4.115.146:8044#NL
+ss://chacha20-ietf-poly1305:_c43uV0__ztFhshnuY4RvhVOC2FgxCjA@dns27.m3hrzd.ir:8044#

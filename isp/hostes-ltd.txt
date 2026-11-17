@@ -1,0 +1,2 @@
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@31.58.213.31:443?flow=xtls-rprx-vision&security=tls&sni=app.streamru2.net&encryption=none&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20-%20Unknown%20%7C%2031.58.213.31%3A443
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@app.streamru2.net:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru2.net
