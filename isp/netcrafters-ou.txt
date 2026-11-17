@@ -1,1 +1,2 @@
 ss://aes-256-gcm:DgMywXKqojHXeuXY8hOJaYGPFcjweCIJeD5cdg%2FcUUY%3D@213.176.92.148:40647#%F0%9F%87%AB%F0%9F%87%AE211679%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@193.41.86.185:443?flow=xtls-rprx-vision&security=reality&sni=nl-19-5753.wave-inside.online&fp=firefox&pbk=lc9iE-93ZiqY_zLSlQJ4fecnJpC4sSlLjJPmIjvDNVw&sid=edd1185410db1559&encryption=none&type=tcp#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20-%20Unknown%20%7C%20193.41.86.185%3A443

@@ -1,0 +1,1 @@
+vless://aa8d427c-2432-4d03-9960-518fe60a53dc@194.85.249.49:443?encryption=none&type=ws&security=tls&sni=lvi-sub.xyz&fp=chrome&alpn=http%2F1.1&path=%2Fvpn-relay%3Ftoken%3Dc4bc2bb81fe52aa0cb4b8b31d35a9524%26pool%3Dwhitelist3&host=lvi-sub.xyz#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%7C%20194.85.249.49%3A443

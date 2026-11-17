@@ -1,1 +1,2 @@
 vless://57715fc4-f787-4e90-9eb2-53fa515fbf37@207.65.189.9:443?host=spsudu.pages.dev&path=%2F&security=tls&sni=spsudu.pages.dev&type=ws#JP
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%20-%20Unknown%20%7C%2092.223.84.254%3A443%203

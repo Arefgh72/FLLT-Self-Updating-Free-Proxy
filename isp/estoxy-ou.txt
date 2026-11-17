@@ -1,1 +1,2 @@
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@37.49.225.92:443?security=reality&sni=ns-gw-mgr.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@37.49.225.52:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-ns-ctl.galioncc.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%7C%2037.49.225.52%3A443

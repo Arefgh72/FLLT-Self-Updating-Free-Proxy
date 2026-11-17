@@ -1,1 +1,0 @@
-vless://6cb43560-a676-4187-8c94-3df74be5d706@188.137.153.12:443?flow=xtls-rprx-vision&security=reality&sni=napecu.galardoxtn.ir&fp=firefox&pbk=tUpGwnxgFj9DJbLOQ2RiMO6oe_q7Cv0bhJMARLHeqkI&sid=b18ce9b0074410&encryption=none&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20Unknown%20%7C%20188.137.153.12%3A443
