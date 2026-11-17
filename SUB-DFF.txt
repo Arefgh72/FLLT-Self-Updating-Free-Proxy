@@ -146,7 +146,6 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_c
 https://sunmiao4458.github.io/free-proxy-airport/clash.yaml
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/clash.yaml
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/proxies.txt
-https://raw.githubusercontent.com/WLget/V2Ray_configs_64/master/ConfigSub_list.txt
 https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_ss.txt
 https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_trojan.txt
 https://raw.githubusercontent.com/cybersecplayground/V2Hive/main/by-protocol/all_vless.txt
@@ -188,4 +187,11 @@ https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/c
 https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_tcp.txt
 https://raw.githubusercontent.com/M450ud/PrList/main/prx.txt
 https://raw.githubusercontent.com/mehrdadmb2/V2ray_Sub/main/Mci.txt
-https://sub.proxygo.org/v2ray.php?key=0246b1865b59ef7f86a13c1ca3ff821b
+https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/singbox.json
+https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/jafar.txt
+https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/jafar_ultimate.txt
+https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria2_servers.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless.txt
+https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vmess_servers.txt
+https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vless_servers.txt
+https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/trojan_servers.txt
