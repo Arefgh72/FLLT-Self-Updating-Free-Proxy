@@ -1,1 +1,0 @@
-vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@23.155.44.105:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=app.flyprotect.ca&pbk=HE1CGzI0QBqhMRUsHqq_9v4Mj3M5dkluFmfyMBH_7kM&sid=70f75668dc5914b3&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20Unknown%20%7C%2023.155.44.105%3A443
