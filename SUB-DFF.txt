@@ -162,9 +162,6 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vm
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ss.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/trojan.txt
 https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/main/blacklist.txt
-https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_nodes.txt
-https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra-health-report.json
-https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/main/testing
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria_servers.txt
 https://raw.githubusercontent.com/wlunlocker/vpn-configs/main/blacklist_vpn2.txt
 https://raw.githubusercontent.com/wlunlocker/vpn-configs/main/whitelist_cidr1_ru.txt
@@ -195,3 +192,5 @@ https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vmess_servers.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vless_servers.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/trojan_servers.txt
+https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/All-DukeMehdi-Configs.txt
+https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/Lite-DukeMehdi-Configs.txt
