@@ -1,0 +1,1 @@
+vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@188.114.98.0:443?security=tls&type=ws&path=%2F700gvl&host=fr-free.fastestrelay.com&alpn=http%2F1.1&sni=fr-free.fastestrelay.com&fp=unsafe#%40SylphNet%20%7C%201405-08-27%20%2381

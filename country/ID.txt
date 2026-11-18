@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiaG9zdCI6ImlkMi5uYXRoYXlhLndlYi5pZCIsImlkIjoiNGNhZjE1NmEtMzMwOS00MTA1LTgzODgtZDM4OGViOWUxMTA1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3doYXRldmVyL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoibWVnYXYuYXBwIiwic2N5IjoiYXV0byIsInNuaSI6Inpvb21nb3YubmF0aGF5YS53ZWIuaWQiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9#Unknown5
+vless://12d67d2b-ae5c-4d56-9f14-d71d96f7826f@104.17.3.81:443?path=%2Fvlessws&security=tls&encryption=none&host=natan.srpcom.cloud&type=ws&sni=natan.srpcom.cloud#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇺🇸%20US%2010ms

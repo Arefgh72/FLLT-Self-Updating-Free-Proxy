@@ -1,0 +1,2 @@
+vless://2874e26b-45e3-4d12-9e01-3f5a1c6a7105@104.18.10.66:443?security=tls&sni=dietary-forms-begun-orientation.trycloudflare.com&type=ws&host=dietary-forms-begun-orientation.trycloudflare.com&path=%2Fd9fb7b4f14c1&fp=chrome#CA
+vless://2874e26b-45e3-4d12-9e01-3f5a1c6a7105@api.opencode.ai:443?path=/d9fb7b4f14c1&security=tls&encryption=none&insecure=0&host=dietary-forms-begun-orientation.trycloudflare.com&fp=chrome&type=ws&allowInsecure=0&sni=dietary-forms-begun-orientation.trycloudflare.com#CA

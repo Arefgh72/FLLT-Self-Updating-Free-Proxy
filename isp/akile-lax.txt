@@ -1,0 +1,1 @@
+vless://fa895069-bfe5-42c9-9f30-f918e1e442c1@143.246.60.254:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=eb68848e2575a1f4&pbk=ccJ6xUaUhUxN6GEj6a1vqsQDNDTJJX1KYSURY5pJpBE#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20431
