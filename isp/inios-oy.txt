@@ -1,1 +1,0 @@
-vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@141.0.184.160:443?security=reality&encryption=none&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7FR-37
