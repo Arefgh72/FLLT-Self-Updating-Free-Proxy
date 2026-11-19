@@ -1,1 +1,0 @@
-trojan://123456@34.80.15.95:443/?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#Channel%20id%3A%20%40ShadowProxy66-146%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B9%F0%9F%87%BC

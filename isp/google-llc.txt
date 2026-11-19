@@ -1,3 +1,0 @@
-trojan://123456@34.94.152.229:443?fp=chrome&insecure=1&security=tls&sni=us.ctt25.uk&type=tcp#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20487
-trojan://123456@us.ctt25.uk:443?fp=chrome&insecure=1&security=tls&sni=us.ctt25.uk&type=tcp#megav.app
-trojan://123456@34.80.15.95:443/?type=tcp&security=tls&sni=tw.ctt25.uk&fp=chrome#Channel%20id%3A%20%40ShadowProxy66-146%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B9%F0%9F%87%BC

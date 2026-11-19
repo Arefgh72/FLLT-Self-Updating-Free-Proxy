@@ -1,1 +1,0 @@
-vless://555092f6-d7b4-4b95-b081-1d346bc795f2@206.1.103.79:8443?security=reality&type=tcp&sni=www.yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=2n892-ls4jQLFXfU12LjJnJ2eQPF9T6rDdM3vnJURz4&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20-%20Istanbul%20%7C%20206.1.103.79%3A8443
