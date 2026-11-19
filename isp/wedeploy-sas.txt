@@ -1,3 +1,4 @@
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@200.102.179.179:8388#
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@145.79.177.201:8388#
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+vless://7c4574cc-6396-44d1-8427-60b91467264e@37.18.15.192:2056?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=android.eads.ru&pbk=8Wm7HmrEFFmPb1YBujIdnoV2ebynl1wBMJp_v2oiwiM&sid=ce680883ad484149&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%2037.18.15.192%3A2056%202

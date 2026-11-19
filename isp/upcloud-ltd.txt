@@ -1,0 +1,1 @@
+vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.yandex.ru&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&sid=c27a26812e5d2208&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%20200
