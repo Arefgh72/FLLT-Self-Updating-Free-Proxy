@@ -1,1 +1,1 @@
-trojan://4mq9w5ckqw3ewbdg@staticxfastline.taymaztest.ir:16200?path=%2Fbiyasd&security=tls&alpn=http%2F1.1&host=staticxfastline.taymaztest.ir&fp=chrome&type=ws&sni=staticxfastline.taymaztest.ir#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2C%20Luxembourg%20%7C%20%5BBL%5D
+vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#AutoAiVPN2310384

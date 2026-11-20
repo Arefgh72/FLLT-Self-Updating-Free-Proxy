@@ -1,2 +1,0 @@
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#AutoAiVPN2310384
-vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?security=reality&type=tcp&fp=chrome&headerType=none&encryption=none&sid=94acb54627612d43&sni=www.cloudflare.com&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&flow=xtls-rprx-vision#🆔soskeynet%20🔒%20VL-TCP-%20🇬🇷%20GR%20down

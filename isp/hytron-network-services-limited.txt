@@ -1,0 +1,2 @@
+vless://a25a71d1-10ed-4383-855a-f269a34ca691@104.21.89.181:443?security=tls&sni=ave-qualifications-choices-populations.trycloudflare.com&type=ws&host=ave-qualifications-choices-populations.trycloudflare.com&path=%2Fa8b8606819ef&fp=chrome&allowInsecure=0#CA
+vless://a25a71d1-10ed-4383-855a-f269a34ca691@172.66.140.62:443?security=tls&sni=ave-qualifications-choices-populations.trycloudflare.com&type=ws&host=ave-qualifications-choices-populations.trycloudflare.com&path=%2Fa8b8606819ef&fp=chrome&allowInsecure=0#CA

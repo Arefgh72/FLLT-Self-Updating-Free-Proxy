@@ -1,2 +1,2 @@
-vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.179:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=1fw71df.virtual-network.lol&encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20187.7.206.179%3A443%202
 vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.176:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=1fw71dc.virtual-network.lol&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20187.7.206.176%3A443
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.179:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=1fw71df.virtual-network.lol&encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%7C%20187.7.206.179%3A443%202
