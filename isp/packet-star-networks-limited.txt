@@ -1,1 +1,0 @@
-vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?security=reality&type=tcp&sni=144.48.11.146&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20144.48.11.146%3A43000

@@ -13,5 +13,9 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Manchester%20%7C%20141.98.101.181%3A443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%7C%20158.173.24.73%3A443
 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#AutoAiVPN2310384
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#AutoAiVPN173476
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?security=reality&encryption=none&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8debcf36f1cc69ff#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%20191
-vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?security=reality&type=tcp&sni=144.48.11.146&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20144.48.11.146%3A43000
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYnlzNzdwcG5hdDZ3Mnln@51.38.127.93:8080#GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozdHJoYXd4eXRleDZnajkz@57.129.138.142:8080#GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cm1nbWhqY2w2NDR2ZG5o@54.37.240.40:8080#GB
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?encryption=none&fp=chrome&host=uk1.connectsuite.org&path=/cdn-cgi/ws&security=tls&sni=uk1.connectsuite.org&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

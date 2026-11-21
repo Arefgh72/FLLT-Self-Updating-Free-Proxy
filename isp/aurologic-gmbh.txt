@@ -1,0 +1,2 @@
+vless://78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c@45.144.52.205:4243?encryption=none&pbk=vCHucdoD_m-TKVHS7si1akKgP6r4dvTLUX8y1TTZQG4&security=reality&serviceName=ns&sni=fi.convert-cloud.guru&type=grpc&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%7C%2045.144.52.205%3A4243
+vless://78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c@45.144.52.205:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc&sni=fi.convert-cloud.guru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20Helsinki%20%7C%2045.144.52.205%3A443
