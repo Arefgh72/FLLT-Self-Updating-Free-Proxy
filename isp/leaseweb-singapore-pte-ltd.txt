@@ -1,1 +1,2 @@
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=/#US
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?security=tls&sni=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=%2F&fp=chrome&alpn=h2#@npv_vpn11

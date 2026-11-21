@@ -1,1 +1,0 @@
-vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&security=reality&sni=fi-s1.kadrhub.tech&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%2013.143.187.220%3A443

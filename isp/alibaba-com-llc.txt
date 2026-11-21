@@ -1,2 +1,1 @@
-vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?flow=xtls-rprx-vision&fp=random&host=gateway.icloud.com&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&security=reality&sid=3c4041d3&sni=gateway.icloud.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-15
 vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&security=reality&sid=e1c483f9d4437d42&sni=www.samsung.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20219ms

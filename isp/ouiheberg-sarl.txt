@@ -1,2 +1,0 @@
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@89.169.2.136:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LfUUkcBZXllEsV7LraRZC96hdDBKKawsRoSKum93Xyg&security=reality&sid=27de245a9190ada7&sni=node-fr-4.nztpro.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20151ms
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.70:443?encryption=none&host=static.lk.pc-club.app&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&security=tls&sni=static.lk.pc-club.app&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20%E2%9A%A1%20%D0%A1%D0%A8%D0%90%20%7C%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D
