@@ -179,7 +179,6 @@ https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/c
 https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/lite_mix_sub.txt
 https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix.txt
 https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/mix_sub.txt
-https://raw.githubusercontent.com/Idolvpn/Automate-V2ray-Config-Collector/main/configs/network_tcp.txt
 https://raw.githubusercontent.com/M450ud/PrList/main/prx.txt
 https://raw.githubusercontent.com/mehrdadmb2/V2ray_Sub/main/Mci.txt
 https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/singbox.json
@@ -203,4 +202,6 @@ https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/subs.t
 https://raw.githubusercontent.com/freenodess/freenodess/main/nodes/singbox.json
 https://raw.githubusercontent.com/freenodess/freenodess/main/nodes/v2ray-base64.txt
 https://raw.githubusercontent.com/freenodess/freenodess/main/output/clash.yaml
-https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless.txt
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_nodes.txt
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra-health-report.json
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan.txt
