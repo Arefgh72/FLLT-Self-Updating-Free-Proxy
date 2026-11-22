@@ -1,3 +1,2 @@
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20TROJAN%20%7C%20451
 vless://f7fa5a16-1279-46ba-ac18-001b41884080@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=nrG0dLD2wazG9wHwqCDb7sF6UNRophzBmCX3hDxuqAE&sid=3611e663b53177f2&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%7C%2046.250.240.80%3A2053%2011
-vless://debafe5b-6760-4b00-b0b2-ee30cbf769f0@104.18.10.153:443?security=tls&sni=portland-wins-robbie-skirt.trycloudflare.com&type=ws&host=portland-wins-robbie-skirt.trycloudflare.com&path=%2Fe0843c8ad581&fp=chrome&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-765

@@ -1,2 +1,1 @@
 vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584/?type=tcp&encryption=none&flow=&sni=m.vk.com&fp=chrome&security=reality&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&sid=67ece882d65d0f1a&packetEncoding=xudp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20-%20Riga%20%7C%2045.38.143.210%3A30584
-vless://5d41009e-e608-44d1-ab8e-9f02c598bb5c@46.8.69.115:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Wi1kOISMtlSH2ELhxvzs8VJtuL36pSnQlQdQQk3o8wQ&security=reality&sni=www.sony.com&type=tcp#Channel%20id%3A%20%40ShadowProxy66-644%20%F0%9F%87%B3%F0%9F%87%B1
