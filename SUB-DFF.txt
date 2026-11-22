@@ -184,7 +184,6 @@ https://raw.githubusercontent.com/mehrdadmb2/V2ray_Sub/main/Mci.txt
 https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/singbox.json
 https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/jafar.txt
 https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/jafar_ultimate.txt
-https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria2_servers.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vmess_servers.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vless_servers.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/trojan_servers.txt
@@ -202,6 +201,8 @@ https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/subs.t
 https://raw.githubusercontent.com/freenodess/freenodess/main/nodes/singbox.json
 https://raw.githubusercontent.com/freenodess/freenodess/main/nodes/v2ray-base64.txt
 https://raw.githubusercontent.com/freenodess/freenodess/main/output/clash.yaml
-https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_nodes.txt
-https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra-health-report.json
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan.txt
+https://raw.githubusercontent.com/411A/V2RayDAR/main/configs.example.yaml
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt
+https://raw.githubusercontent.com/411A/V2RayDAR/main/src/config.rs
+https://raw.githubusercontent.com/411A/V2RayDAR/main/src/subscription.rs
