@@ -40,7 +40,7 @@ jobs:
           ALL_C2_URL: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}/ALL-C2.txt
           RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}
           PAGE_URL: https://browserleaks.com/ip
-          INFO_WORKERS: "24"
+          INFO_WORKERS: "50"
           BATCH_SIZE: "100"
           PAGE_MAX_TIME: "30"
           JOB_BUDGET_MIN: "35"
