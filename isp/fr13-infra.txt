@@ -1,0 +1,4 @@
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&encryption=none&host=o685y.save-node.com&fp=chrome&type=ws&sni=o685y.save-node.com#DE
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@172.67.197.170:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&alpn=http%2F1.1&host=o685y.save-node.com&type=ws&sni=o685y.save-node.com#CA
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.114.98.0:443?path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=o685y.save-node.com&fp=unsafe&type=ws&allowInsecure=0&sni=o685y.save-node.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@o685y.save-node.com:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&encryption=none&insecure=0&host=o685y.save-node.com&fp=chrome&type=ws&allowInsecure=0&sni=o685y.save-node.com#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20118ms

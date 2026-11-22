@@ -1,2 +1,1 @@
 vless://2f12e5b5-6ce7-47ab-88b9-6110c1a3fc60@179.254.94.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.bing.com&fp=firefox&pbk=q49v36UVMNsNION3nn-cQU6_8VwgM_psm1s5z7XVaWc&sid=e6052385636f0700&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%7C%20179.254.94.184%3A443
-vless://2f12e5b5-6ce7-47ab-88b9-6110c1a3fc60@vless.cloudxzw2027.ccwu.cc:443?encryption=none&security=tls&sni=vless.cloudxzw2027.ccwu.cc&fp=chrome&type=ws&host=vless.cloudxzw2027.ccwu.cc&path=%2Fxzw&insecure=0#🇮🇹

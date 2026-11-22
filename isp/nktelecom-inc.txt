@@ -1,1 +1,0 @@
-vless://12de3048-e455-11f1-9e1b-f328d1ed3475@45.112.192.165:8443?security=reality&type=tcp&sni=cloudflare.com&flow=xtls-rprx-vision&fp=firefox&pbk=vCVpybJCiMGBpMlocJ4wKUllrZNAAth25itR4DQ7-UE&sid=e1422a768cddb8c4&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20The%20Netherlands%20%7C%2045.112.192.165%3A8443

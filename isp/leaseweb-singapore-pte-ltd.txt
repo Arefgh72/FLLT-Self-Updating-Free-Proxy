@@ -1,2 +1,1 @@
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?security=tls&sni=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=%2F&fp=chrome&alpn=h2#@npv_vpn11
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20141.193.213.21%3A8443%206
