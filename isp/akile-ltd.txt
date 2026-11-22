@@ -1,1 +1,2 @@
 vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&encryption=none&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#v2go%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20VLESS%20%7C%20125
+vless://e062e0eb-6c21-47e3-8300-7eece5f8941d@156.243.244.19:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=jp.kbkkb.de5.net&encryption=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20-%20Tokyo%20%7C%20156.243.244.19%3A443

@@ -1,1 +1,1 @@
-vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?encryption=none&security=reality&type=xhttp&sni=cdn3-88.yahoo.com&fp=chrome&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE#v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%BF%20KZ%20%7C%20VLESS%20%7C%20332
+vless://6df66cb9-34e6-4287-9660-5dda0f79239b@103.252.91.140:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=vsaxas.puffixhosting.com&pbk=pqm3uwi4igGi8XbqSnlbOMb6JUgmCaF-e_YcKWvrMUM&sid=be9ad6e06ec8e762#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down

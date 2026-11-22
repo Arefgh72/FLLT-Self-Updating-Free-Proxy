@@ -1,4 +1,2 @@
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@157.254.38.210:20051?sni=hk.catxstar.com&allowInsecure=0#🇭🇰
 trojan://d7563108-615c-4338-a7bd-77f359869a4a@157.254.38.210:20103?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=hk.catxstar.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20157.254.38.210%3A20103
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?security=tls&sni=hk.catxstar.com#%E9%A6%99%E6%B8%AF+%E8%91%B5%E5%85%B4%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@157.254.38.210:20051?security=none&type=tcp&sni=hk.catxstar.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Unknown%20%7C%20157.254.38.210%3A20051
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20103?security=tls&sni=hk.catxstar.com#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP

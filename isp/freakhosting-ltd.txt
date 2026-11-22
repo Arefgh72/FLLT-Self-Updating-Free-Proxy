@@ -1,1 +1,0 @@
-vless://4bec3709-0954-4173-ae59-3dee6cb8b961@78.17.25.113:2066?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=google.com&pbk=afczQg2aQdvcZsQsnX_7SGTnSi6N_FI9ADIyxMfDehU&sid=1b2a3f&fp=firefox#🇦🇪
