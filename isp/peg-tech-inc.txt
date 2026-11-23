@@ -1,1 +1,0 @@
-vless://0167ecdc-c5df-4b55-b129-00eb5e953553@198.200.37.74:20002?encryption=none&fp=firefox&security=tls&sni=6r.770704.xyz&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20San%20Jose%20%7C%20198.200.37.74%3A20002
