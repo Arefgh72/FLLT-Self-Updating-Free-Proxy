@@ -203,6 +203,8 @@ https://raw.githubusercontent.com/freenodess/freenodess/main/nodes/v2ray-base64.
 https://raw.githubusercontent.com/freenodess/freenodess/main/output/clash.yaml
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan.txt
 https://raw.githubusercontent.com/411A/V2RayDAR/main/configs.example.yaml
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt
 https://raw.githubusercontent.com/411A/V2RayDAR/main/src/config.rs
 https://raw.githubusercontent.com/411A/V2RayDAR/main/src/subscription.rs
+https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/all_configs.txt
+https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria2_servers.txt
+https://sub.proxygo.org/v2ray.php?key=bb5e9dd4994b89bec727a97d2e3d7955
