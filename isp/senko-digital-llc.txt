@@ -1,1 +1,0 @@
-vless://6dd17e9f-5b7c-466d-a53a-7c30f5dc8338@188.225.74.6:443?flow=xtls-rprx-vision&security=reality&sni=nvidia.com&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D

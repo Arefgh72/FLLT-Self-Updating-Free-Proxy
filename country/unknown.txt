@@ -1,4 +1,0 @@
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@132.243.66.159:443?security=reality&type=tcp&sni=04535dt.us8.h1clayd.click&fp=firefox&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&sid=ba2a3dce62b99092&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20-%20Tallinn%20%7C%20132.243.66.159%3A443
-trojan://1vkFHbQX_gN1U8V8jVc@159.246.55.228:443?security=tls&sni=mhpanel.kigaping.com&type=ws&host=mhpanel.kigaping.com&path=/trojan-ws#🔥Join+Telegram:@Farah_VPN🟣
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.84:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#CA
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?path=/tyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&type=ws&allowInsecure=0&sni=jp3.yohototo.top#AutoAiVPN1106935

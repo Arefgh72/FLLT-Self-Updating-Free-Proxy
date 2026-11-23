@@ -1,3 +1,2 @@
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@77.83.198.104:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&sid=f8d0271b4b5f9efc&allowInsecure=1#EE
 vless://dc91568b-4f12-4ce1-a483-f04dd4913ab9@217.60.182.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5qVucogFLYlZOsG8DdX3dZRTr_2llj6_1OtZ9YfoilM&security=reality&sid=b12ebda62333a16a&sni=edge.mult-universe.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20-%20Tallinn%20%7C%20217.60.182.96%3A443
-vless://cde5d3ef-7d14-03e8-a74d-ac98e39bf9ec@168.113.132.167:52006?flow=xtls-rprx-vision&security=tls&sni=168.113.132.167&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5B%2ACIDR%5D
