@@ -1,1 +1,0 @@
-vless://9c69546a-e435-4037-bc63-f9e5829a8be3@194.26.229.197:27443?encryption=none&mode=gun&pbk=bmANZFeLzXK0izEu3fveuPKOLS_1pZ_17PVRxyNpxCo&security=reality&serviceName=grpc&sni=static.polina.mom&type=grpc#%F0%9F%87%AA%F0%9F%87%AA%20%E2%9A%A1%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%7C%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D

@@ -1,0 +1,1 @@
+vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=chrome&security=reality&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20VLESS%20%7C%20322
