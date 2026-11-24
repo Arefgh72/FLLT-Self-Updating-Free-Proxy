@@ -1,1 +1,1 @@
-vless://9c69546a-e435-4037-bc63-f9e5829a8be3@45.88.176.101:39443?type=grpc&headerType=none&security=reality&encryption=none&sni=static.polina.mom&fp=firefox&pbk=fdxL-_wJtRHMDPjT2savleui1AgLPJ85z2rr2lZQxCw&serviceName=grpc&mode=gun#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20-%20Unknown%20%7C%2045.88.176.101%3A39443
+vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@168.113.187.116:443?flow=xtls-rprx-vision&security=tls&sni=files.vpvi.store&alpn=http%2F1.1&fp=firefox&encryption=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%20168.113.187.116%3A443
