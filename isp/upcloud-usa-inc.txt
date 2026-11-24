@@ -1,0 +1,1 @@
+vless://41b8b7e5-17bc-496e-a725-125545bb2c57@209.50.50.174:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SetkHCEuwTCJLii9zJ4K_wz2Oe8ut4au8Czm5y_xt18&sid=12&sni=www.microsoft.com&support-x25519mlkem768=true#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%28Loop%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

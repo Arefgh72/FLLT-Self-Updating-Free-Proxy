@@ -1,0 +1,1 @@
+vless://02974d2b-518f-4f95-91cc-b145b6e4805e@89.163.239.238:2053?encryption=none&security=reality&type=tcp&sni=www.apple.com&fp=chrome&pbk=vZmTxEoOhD-VAACucx2KmzWaKlYyXdkkUUv0RzlDsgo&sid=2fa414c6dd1189db#%F0%9F%87%A9%F0%9F%87%AA%20https://t.me/ConfigsDuke%20VLESS-DE
