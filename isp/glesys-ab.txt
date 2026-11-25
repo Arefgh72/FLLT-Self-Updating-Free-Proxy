@@ -1,2 +1,0 @@
-vless://5a26246a-0fcd-0001-827c-83fc8d0a4f17@82.202.138.238:443?encryption=none&type=tcp&security=tls&sni=qubawzlmppvnuzsfoo.fcloudservices.site#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%2082.202.138.238%3A443%205
-vless://08a9c843-8b6c-0001-a95c-34f4e5c2642c@45.132.178.108:443?encryption=none&type=tcp&security=tls&sni=ysbnggurlwwotbmkuf.fcloudservices.site&fp=ios&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%2045.132.178.108%3A443%203

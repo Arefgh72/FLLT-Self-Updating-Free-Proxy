@@ -1,2 +1,1 @@
 ss://aes-256-gcm:DgMywXKqojHXeuXY8hOJaYGPFcjweCIJeD5cdg%2FcUUY%3D@213.176.92.148:40647#%F0%9F%87%AB%F0%9F%87%AE211679%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@185.86.147.175:443?security=reality&encryption=none&pbk=8AMTGPbrxsJjdXnKnF9Q_FTBE0tQHG-nfE1CeqN7GRs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=typewriter.mail.ru&sid=17aa0cd6#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
