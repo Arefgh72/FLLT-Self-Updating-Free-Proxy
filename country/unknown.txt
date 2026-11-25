@@ -1,2 +1,0 @@
-vless://bd6c11e0-0233-4fb1-ba97-8d5f16d7155f@172.64.150.205:2083?encryption=none&security=tls&sni=site.check-looks.space&type=ws&path=%2F&host=site.check-looks.space#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://bd6c11e0-0233-4fb1-ba97-8d5f16d7155f@162.159.152.118:2083?encryption=none&security=tls&sni=site.check-looks.space&type=ws&path=%2F&host=site.check-looks.space#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

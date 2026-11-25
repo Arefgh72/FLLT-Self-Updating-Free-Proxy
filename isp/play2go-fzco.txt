@@ -1,1 +1,0 @@
-vless://43add026-128a-47d3-a403-b3875b4638db@177.202.74.175:8444?security=reality&sni=yastatic.net&type=grpc&serviceName=grpc&fp=firefox&pbk=1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q&sid=bcefc042d39188e0#Channel%20id%3A%20%40ShadowProxy66-513%20%F0%9F%87%A9%F0%9F%87%AA

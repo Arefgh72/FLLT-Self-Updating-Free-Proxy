@@ -1,0 +1,1 @@
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xinnusvpn.duckdns.org:8443?encryption=none&fp=chrome&host=xinnusvpn.duckdns.org&path=%2Fwsnl&security=tls&sni=xinnusvpn.duckdns.org&type=ws#%F0%9F%8C%90%20Unknown%20-%20Unknown%20%7C%20xinnusvpn.duckdns.org%3A8443
