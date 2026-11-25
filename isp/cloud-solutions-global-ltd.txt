@@ -1,1 +1,0 @@
-vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@168.113.187.116:443?flow=xtls-rprx-vision&security=tls&sni=files.vpvi.store&alpn=http%2F1.1&fp=firefox&encryption=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%20168.113.187.116%3A443

@@ -1,2 +1,1 @@
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@217.217.222.230:20123?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20TROJAN%20%7C%20269
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?allowInsecure=1&security=tls&sni=hk.catxstar.com#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@200.102.183.113:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=cH5ij6-s09W0Dx3Bnxhh4fHeVnjM_TrS1rZWfdgBPi8&sni=dune-falcon.cdn.cachefleet.com&fp=firefox&sid=0268c715cf2f61e7#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-149
