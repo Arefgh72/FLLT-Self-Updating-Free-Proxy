@@ -1,1 +1,0 @@
-vless://918b1fa3-3e63-4c8d-87a4-8f635ffb7cd3@147.45.98.78:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.gosuslugi.ru&fp=firefox&security=reality&pbk=C8jwxMahtF-BpgtauR6I6dVXCc0X8VM9nbFxDQ3LzF0&sid=b4#🇷🇺

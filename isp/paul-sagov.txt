@@ -2,4 +2,3 @@ vless://a346c521-7a7f-452b-9356-a4893feb5982@48.103.231.2:443?encryption=none&fl
 vless://a346c521-7a7f-452b-9356-a4893feb5982@leviko-nl4680.shopingggg.ir:443?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee1-r.bankai.party&sid=457fab2ac885dbe0#🔥Join+Telegram:@Farah_VPN🟣
 vless://7aa77858-f235-0003-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20848716
 vless://7aa77858-f235-44d6-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%87%B7%F0%9F%87%BA%20https://t.me/ConfigsDuke%20VLESS-RU
-vless://7aa77858-f235-0005-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%87%B7%F0%9F%87%BA%20https://t.me/ConfigsDuke%20VLESS-RU

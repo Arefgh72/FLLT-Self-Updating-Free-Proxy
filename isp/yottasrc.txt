@@ -1,4 +1,2 @@
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#🇺🇸
 vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=turkey-ip1.mmdaqaorg.xyz#
-vless://56665684-5ac0-4ba9-9d49-8b258fb57974@143.246.136.128:50738?security=tls&sni=turkey-ip1.mmdaqaorg.xyz&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=0#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20-%20Istanbul%20%7C%20143.246.136.128%3A50738
-vless://cef83486-03f3-439c-b7d1-41342ca56045@107.181.155.27:2020?security=reality&type=tcp&sni=app.stiga.com&fp=firefox&pbk=Yi-gnPXSPlKZ1CJMHjYweHtosyU_ZlW2d6iWjVmieC8&sid=8ccab9d5e561c34d#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20-%20Istanbul%20%7C%20107.181.155.27%3A2020

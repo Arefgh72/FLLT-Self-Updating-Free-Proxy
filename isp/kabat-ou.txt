@@ -1,3 +1,2 @@
-vless://92a188aa-2e86-4557-bd30-b2079a70f824@ytsdnol.localip.ir:2087?security=tls&amp;sni=ytsdnol.localip.ir&amp;fp=chrome&amp;alpn=h2,http/1.1,h3#[163148
 vless://92a188aa-2e86-4557-bd30-b2079a70f824@94.103.168.169:2087?security=tls&sni=ytsdnol.localip.ir&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&allowInsecure=0#@npv_vpn11
 vless://92a188aa-2e86-4557-bd30-b2079a70f824@94.103.168.62:2087?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=uuyjnfbv.localip.ir#🆔ar14n24b%20🔒%20VL-TCP-N/A%20❔%20XX%20108ms

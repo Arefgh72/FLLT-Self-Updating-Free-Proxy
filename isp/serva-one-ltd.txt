@@ -1,1 +1,1 @@
-vless://ebdfaf99-41d8-4e48-8196-d54510ffb556@45.129.242.56:443?security=reality&encryption=none&pbk=YURKlEQ3rap4KOXXGsVFZyYev2oDU2gCEbNTXPdKWRY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=abcdef#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20down
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4#AutoAiVPN2611461
