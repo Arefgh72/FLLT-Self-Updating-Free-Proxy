@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/clash-provider.yaml
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/curated.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/all_servers.txt
 https://raw.githubusercontent.com/penhandev/AutoAiVPN/main/allConfigs.txt
 https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt
@@ -25,7 +24,6 @@ https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs.
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/clash.yaml
 https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub1.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/ipv6_only.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/Tested.txt
 https://raw.githubusercontent.com/penhandev/AutoAiVPN/main/AtuoAiVPN.txt
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
@@ -54,7 +52,6 @@ https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Subscriptions/Sub10.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/proxies.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub2.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top.txt
 https://raw.githubusercontent.com/penhandev/AutoAiVPN/main/iran.txt
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/main/kizyakbeta7.txt
 https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
@@ -97,9 +94,6 @@ https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Best-Results/stats.json
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/main/Special/Telegram.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Base64/Sub1_base64.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/Base64/Sub2_base64.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/top_ipv6.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified_tls.txt
 https://raw.githubusercontent.com/penhandev/AutoAiVPN/main/russia.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/master/githubmirror/1.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/master/githubmirror/10.txt
@@ -209,6 +203,11 @@ https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/
 https://raw.githubusercontent.com/Andrejewild/hiddify-singbox-configs-ru/main/base64.txt
 https://raw.githubusercontent.com/Andrejewild/hiddify-singbox-configs-ru/main/sub.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless.txt
-https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt
 https://raw.githubusercontent.com/freeVpnMan/abc-configs-free-vpn-proxy/main/llms.txt
-https://sub.proxygo.org/v2ray.php?key=348f5b12c9526d7a6a3312126553b7ae
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra_nodes.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/extra-health-report.json
+https://raw.githubusercontent.com/rtwo2/FastNodes/outputs/sub/top.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/outputs/sub/verified.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/outputs/sub/top_ipv6.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/outputs/sub/everything.txt
