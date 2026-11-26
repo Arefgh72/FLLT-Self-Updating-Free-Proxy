@@ -1,1 +1,0 @@
-vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;insecure=0&amp;headerType=&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=turkey-ip1.mmdaqaorg.xyz#

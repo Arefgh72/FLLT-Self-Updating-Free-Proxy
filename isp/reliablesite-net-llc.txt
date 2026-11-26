@@ -1,0 +1,1 @@
+vless://eee8ae65-bc48-438f-a606-a96f10bfb3b8@x.m-90.xyz:443?path=t.me%2FTEAMNETGRATISCOL&security=tls&encryption=none&host=x.m-90.xyz&type=ws&sni=x.m-90.xyz&allowInsecure=0&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Miami%20%7C%20%5BBL%5D

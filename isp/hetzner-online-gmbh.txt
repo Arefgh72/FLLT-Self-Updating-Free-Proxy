@@ -1,1 +1,2 @@
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?security=tls&type=tcp&sni=mosaic.topp-con.xyz&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20176.98.176.60%3A443%204
+vmess://eyJ2IjoiMiIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgNjM3NzkyIiwiYWRkIjoiOTEuMTA3LjE1My4xNTgiLCJwb3J0IjoiNDMxNjAiLCJpZCI6IjkwMjc0ZWM2LTU3ODEtNDlkYi04YWUyLWQwMTFkNTc2M2I4MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
