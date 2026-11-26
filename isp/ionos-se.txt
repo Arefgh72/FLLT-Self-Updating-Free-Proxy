@@ -1,0 +1,2 @@
+vless://06b21aa9-65fe-4896-b0b6-a72182e1ed8a@212.227.235.66:2053?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=vXr6yPHRK6IKYGTf5sKTBAbdQg3OJWeDFemYUFYXlTU&sid=385366c80310403d&type=tcp#@npv_vpn11
+vless://b52f332a-b1d6-4f65-bfd2-3c3568f68ca0@74.208.55.79:2053?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=uJFFIQoLQDAx8qUhwptf0Z1ZyO6qukNTo9b1asj1Wk0&sid=792f4a18f25a3fdb&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20https://t.me/ConfigsDuke%20VLESS-US

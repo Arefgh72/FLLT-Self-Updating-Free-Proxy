@@ -1,3 +1,5 @@
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8454?security=tls&type=ws&path=%2Fws&sni=store.plumstatic.com&fp=firefox&encryption=none#RU
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8459?security=tls&type=ws&path=%2Fws&sni=photos.plumstatic.com&fp=firefox&encryption=none#RU
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8463?security=tls&type=ws&path=%2Fws&sni=share.plumstatic.com&fp=firefox&encryption=none#RU
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8444?encryption=none&fp=firefox&path=%2Fws&security=tls&sni=media.plumstatic.com&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20❔%20XX%20328ms
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?security=tls&type=ws&path=%2Fws&sni=fonts.plumstatic.com&fp=firefox&encryption=none#RU

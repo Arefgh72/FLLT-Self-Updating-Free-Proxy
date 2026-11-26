@@ -1,0 +1,1 @@
+vless://ea240abb-cbff-4250-a7e2-81fead273be4@166.0.25.92:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sM_GJx22-fLTXSSyhHKWZGwUUlRajZLXgg7JXo8l0gs&sid=f616956add605348&sni=www.amazon.com#%F0%9F%87%BA%F0%9F%87%B8%20https://t.me/ConfigsDuke%20VLESS-US
