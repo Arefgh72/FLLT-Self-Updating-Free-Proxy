@@ -1,1 +1,1 @@
-vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?security=reality&encryption=none&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&headerType=none&fp=chrome&type=tcp&sni=m.vk.com&sid=67ece882d65d0f1a#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%20474
+vless://7e5e965f-8268-4ec2-87a6-4387152e11c3@31.57.108.24:1001?encryption=none&fp=&pbk=HJyqV1zGKZdejNpPvIy_3C3fB7OcVbynjk76p6tuNwg&security=reality&sid=e7f0663d899bb67f&sni=app.stiga.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20https://t.me/ConfigsDuke%20VLESS-FR

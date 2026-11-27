@@ -1,1 +1,2 @@
 vless://a5b1d16b-719b-4bd6-9d7b-fe6d84607da9@45.9.190.245:443?security=tls&sni=fortuna.masynbazar.ru&alpn=h2&fp=firefox&type=xhttp&host=fortuna.masynbazar.ru&path=%2F&mode=auto&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Meppel%20%7C%2045.9.190.245%3A443
+vless://a5b1d16b-719b-4bd6-9d7b-fe6d84607da9@188.114.98.0:443?security=tls&fp=unsafe&alpn=h2&sni=fortuna.masynbazar.ru&type=xhttp&host=fortuna.masynbazar.ru&cs=TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256&fm={

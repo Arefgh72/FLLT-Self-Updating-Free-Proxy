@@ -1,2 +1,2 @@
-vless://b59bcb5b-5150-4c6b-9227-681886197014@85.237.207.221:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=lJz7AGWUC-ZTEIJaU5y1GRrROWJ9J_VzQRyrYPmOygs&sid=fd2fa5e06670120b#AutoAiVPN4087402
 vless://530d31fc-2690-49e4-bfc9-3f991e145008@116.213.43.43:11102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=oW6HMjniDmBJdjGKwhBAIS2zMS1VvHORubh9vdazqQ0&sid=ed571d022f7bc3bf&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0HK-13
+vless://bf14dc50-e9f2-49fd-8642-620446edeafb@83.147.14.62:8443/?type=ws&encryption=none&flow=&host=v3-duz.pages.dev&security=tls&sni=v3-duz.pages.dev&fp=firefox#4Mohsen-b0cfa7379d

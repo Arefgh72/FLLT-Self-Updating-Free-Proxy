@@ -1,0 +1,1 @@
+vless://04812b68-47ad-48ee-b96d-ab9127679634@147.45.61.144:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tmiOsPsVgiWU7usQWetCpVdEp3ZTWl9tPY-r399JdCs&security=reality&sid=b725584749527b07&sni=s2.frenchymyrsep.click&type=tcp#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20486

@@ -1,0 +1,2 @@
+vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@13.141.36.163:443?security=reality&encryption=none&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&headerType=none&fp=firefox&type=tcp&sni=079b6et.ee5.h1clayd.shop&sid=35a329a23bb50d2b#RO
+vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@13.141.36.127:443?security=reality&type=tcp&packetEncoding=xudp&sni=079b6et.ee5.h1clayd.shop&fp=firefox&sid=35a329a23bb50d2b&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&encryption=none#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA

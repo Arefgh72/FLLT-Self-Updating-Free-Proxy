@@ -1,0 +1,2 @@
+vless://ecc0e60a-f2cc-4266-8353-b228df89730a@150.241.87.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl.galacticworld.online&security=reality&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&sid=#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20480
+vless://3716f057-f2d3-4924-8998-7a5729af7304@81.90.17.116:777?encryption=none&fp=chrome&mode=gun&pbk=gZOtLZfYWKRYVhsOy4Ks9-mxZRxRyQ3BTpSUOsKafyU&security=reality&sid=8a0cce76&sni=it.nvidia.com&spx=/eeda1cd407bec81&type=grpc#Channel%20id%3A%20%40ShadowProxy66-377%20%F0%9F%87%B5%F0%9F%87%B1
