@@ -1,0 +1,1 @@
+vless://3716f057-f2d3-4924-8998-7a5729af7304@81.90.17.116:777?encryption=none&fp=chrome&mode=gun&pbk=gZOtLZfYWKRYVhsOy4Ks9-mxZRxRyQ3BTpSUOsKafyU&security=reality&sid=8a0cce76&sni=it.nvidia.com&spx=/eeda1cd407bec81&type=grpc#Channel%20id%3A%20%40ShadowProxy66-377%20%F0%9F%87%B5%F0%9F%87%B1

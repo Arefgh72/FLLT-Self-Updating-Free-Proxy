@@ -1,2 +1,2 @@
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?security=tls&type=ws&path=%2Fws&sni=fonts.plumstatic.com&fp=firefox&encryption=none#RU
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.10:8451?encryption=none&fp=firefox&path=%2Fws&security=tls&sni=video.plumstatic.com&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20213.183.41.10%3A8451%202
+ss://YWVzLTEyOC1nY206RUUyVldlS29oSXdUeDZIR09vMVgycDFqak5BVWZSV1M@109.248.148.141:11471#YFZ%20566%20%40Outline_Vpn|||14050906|outline_vpn|V2rayCh
+vless://bfce4086-02f9-4006-b579-472210753a63@83.166.254.97:11443?flow=xtls-rprx-vision&security=reality&sni=83.166.254.97&pbk=gaSpyUW0U3qs3kXSR8i_cpOKfl_vM6CdsEsUfSCJ9y4&sid=1280c0a31e883774&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%2083.166.254.97%3A11443%202

@@ -1,0 +1,1 @@
+vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@brookhaven.moltex.click:443?encryption=none&type=grpc&security=tls&sni=brookhaven.moltex.click&fp=firefox&alpn=h2&serviceName=glush.wifi.v1#%F0%9F%8C%90%20https://t.me/ConfigsDuke%20VLESS-XX

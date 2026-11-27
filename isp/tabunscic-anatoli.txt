@@ -1,2 +1,3 @@
-vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@bookend.filnex.baby:443?encryption=none&type=ws&security=tls&sni=ferncrest.gerqix.online&fp=firefox&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream#%F0%9F%8C%90%20https://t.me/ConfigsDuke%20VLESS-XX
 vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@copperleaf.gerqix.online:443?encryption=none&type=grpc&security=tls&sni=copperleaf.gerqix.online&fp=firefox&alpn=h2&serviceName=glush.de4.v1#%F0%9F%8C%90%20https://t.me/ConfigsDuke%20VLESS-XX
+vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@bookend.filnex.baby:443?encryption=none&type=ws&security=tls&sni=ferncrest.gerqix.online&fp=firefox&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream#%F0%9F%8C%90%20https://t.me/ConfigsDuke%20VLESS-XX
+vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@marigold.gerqix.online:443?encryption=none&type=grpc&security=tls&sni=marigold.gerqix.online&fp=firefox&alpn=h2&serviceName=glush.de5.v1#%F0%9F%8C%90%20https://t.me/ConfigsDuke%20VLESS-XX

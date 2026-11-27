@@ -1,5 +1,0 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2x6Skx2UnpJeGl2Q1hiZjVYNWpuU1UwcExnNWZmQ0VVTDJBWm9lTGc5ND0=@43.160.213.146:8388#SG
-vless://db906786-8c49-4b17-9182-cea680ef954d@104.20.28.74:443?encryption=none&security=tls&sni=krc.80782636.xyz&type=ws&host=krc.80782636.xyz&path=%2Fkw7x2mq9#@npv_vpn11
-vless://db906786-8c49-4b17-9182-cea680ef954d@krd.80782636.xyz:443?encryption=none&security=tls&sni=krd.80782636.xyz&fp=chrome&type=ws&host=krd.80782636.xyz&path=%2Fkw7x2mq9#@npv_vpn11
-vless://db906786-8c49-4b17-9182-cea680ef954d@104.26.13.54:443?encryption=none&security=tls&sni=krc.80782636.xyz&fp=chrome&type=ws&host=krc.80782636.xyz&path=%2Fkw7x2mq9#@npv_vpn11
-vless://db906786-8c49-4b17-9182-cea680ef954d@162.159.160.73:443?encryption=none&security=tls&sni=krc.80782636.xyz&type=ws&host=krc.80782636.xyz&path=%2Fkw7x2mq9#@npv_vpn11

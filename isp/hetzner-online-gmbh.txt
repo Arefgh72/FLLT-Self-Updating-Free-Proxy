@@ -1,2 +1,5 @@
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?security=tls&type=tcp&sni=mosaic.topp-con.xyz&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20176.98.176.60%3A443%204
 vless://76f48d1f-113a-4f4a-b67b-ecc8dc172218@hw7.jirjirakirani.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=hw7.jirjirakirani.com.#@Alirewa-432
+vless://cbfdab46-e183-4cc3-bab9-df954c8c601e@104.21.33.176:8443?security=tls&sni=cdn.memetic.ir&fp=chrome&type=ws&host=cdn.memetic.ir&path=%2Fvless-ws#🇫🇷
+vless://80256d6f-7cd3-4a3a-8df6-2981e52551dc@91.107.185.86:16893?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=dpmXAfLC6-Sf6cPjkQKGx_NliRQRFZ_oUiiPA5ALW0I&sid=849711f2b99d1176&spx=/#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20507
+vless://7aa77858-f235-0001-9434-7ab060848b17@85.8.201.186:443?flow=xtls-rprx-vision&security=tls&sni=cdn.mornismp.ru&alpn=h2%2Chttp%2F1.1&fp=firefox&encryption=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20https://t.me/ConfigsDuke%20VLESS-RU

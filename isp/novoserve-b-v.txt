@@ -1,2 +1,3 @@
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=absolute-disaster.org&fp=chrome&security=reality&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&sid=#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20197ms
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@72.56.4.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Im1i3eUtm7uDxUOA0rNWef9bILxsBvK_ElfejZTpQW0&security=reality&sni=absolute-disaster.org&type=tcp#@Alirewa-490
+vless://Fluffy_VPN-zKZUa4Ie@201.51.11.65:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&security=reality&sni=absolute-disaster.org&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-16
+vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@104.171.135.229:443?flow=xtls-rprx-vision&pbk=mpo4BIcoWiMXAQGt5a8IJ4MFkPJQyLC50dO_bXzC7z0&security=reality&sni=absolute-disaster.org&type=tcp&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20https://t.me/ConfigsDuke%20VLESS-RU

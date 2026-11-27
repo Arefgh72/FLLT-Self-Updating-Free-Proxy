@@ -1,1 +1,2 @@
 vless://f7fa5a16-1279-46ba-ac18-001b41884080@46.250.240.80:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=nrG0dLD2wazG9wHwqCDb7sF6UNRophzBmCX3hDxuqAE&sid=3611e663b53177f2&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20London%20%7C%2046.250.240.80%3A2053%2011
+vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@46.250.246.11:8443?encryption=none&fp=firefox&host=46-250-246-11.sslip.io&path=/vpn-live&security=tls&sni=46-250-246-11.sslip.io&type=ws#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
