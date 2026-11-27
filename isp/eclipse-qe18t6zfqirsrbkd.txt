@@ -1,1 +1,0 @@
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@82.152.141.125:443?type=tcp&headerType=none&security=reality&encryption=none&sni=nexz747.richhoodfoc.com&fp=firefox&pbk=UIHULCJ5JuqZHg66twX_GyTtaSE4Zu7XN2VCX4Hc0l0&sid=cf7cd748e03a6be8&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%7C%2082.152.141.125%3A443

@@ -1,2 +1,0 @@
-vless://c0742f77-5495-43bf-b007-88d368774d7c@5.39.202.153:443?security=reality&encryption=none&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=czek.oblachniy.ink&sid=f19e02a2fb573c18#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20180ms
-vless://c0742f77-5495-43bf-b007-88d368774d7c@czek.oblachniy.ink:443?security=reality&encryption=none&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=czek.oblachniy.ink&sid=f19e02a2fb573c18#%F0%9F%8C%90%20https://t.me/ConfigsDuke%20VLESS-XX
