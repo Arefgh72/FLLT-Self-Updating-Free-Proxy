@@ -1,0 +1,1 @@
+vless://9f97497b-d882-4187-b33f-16d2b3e3789c@135.126.12.14:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=G_fY9pA9N6QmXPUMVPjnxzAqvpyvVRqbPZwOaC7iin0&security=reality&sid=aace430d&sni=it.nvidia.com&type=tcp#Channel%20id%3A%20%40ShadowProxy66-509%20%F0%9F%87%B3%F0%9F%87%B1

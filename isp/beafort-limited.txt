@@ -1,0 +1,1 @@
+vless://7aa77858-f235-0003-9434-7ab060848b17@85.8.201.186:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn.mornismp.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D

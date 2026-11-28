@@ -1,0 +1,1 @@
+vless://9548ef84-b54d-41dc-b17c-9da21d52ba82@212.233.90.78:443?security=reality&type=tcp&sni=birch-ledger.justext.space&flow=xtls-rprx-vision&fp=chrome&pbk=FwPphm8xGAKY6u74WDRVrcVye3A7GdLDfJoNSDWFsFQ&sid=2c6df23e#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Moscow%20%7C%20212.233.90.78%3A443%204
